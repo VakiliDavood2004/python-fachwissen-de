@@ -1,4 +1,4 @@
-# 📘 Sammlung von Python-Artikeln und Lernmaterialien
+# 🇩🇪 Sammlung von Python-Artikeln und Lernmaterialien
 
 Dieses Repository besteht aus zwei Hauptteilen:
 
@@ -56,7 +56,7 @@ Um das Buch oder die Artikel zu lesen, öffne einfach die entsprechenden Ordner 
 
 
 
-# 📘 Collection of Python Tutorials and Articles
+# 🇬🇧 Collection of Python Tutorials and Articles
 
 This repository includes two main sections:
 
