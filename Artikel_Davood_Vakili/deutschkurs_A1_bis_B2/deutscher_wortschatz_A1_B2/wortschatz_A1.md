@@ -134,7 +134,7 @@
 
 ---
 
-### 🧍 افعال پایه‌ای (Verben)
+### 🧍 Grundlegende Verben (Verben)
 
 | Deutsch     | Persisch     | Englisch     |
 |-------------|--------------|--------------|
@@ -161,7 +161,7 @@
 
 ---
 
-### 💬 ضمایر و کلمات پرسشی
+### 💬 Pronomen und Fragewörter
 
 | Deutsch     | Persisch        | Englisch     |
 |-------------|------------------|--------------|
@@ -188,7 +188,7 @@
 
 ---
 
-### 🎨 صفات پایه‌ای (Adjektive)
+### 🎨 Grundlegende Adjektive (Adjektive)
 
 | Deutsch   | Persisch     | Englisch     |
 |-----------|--------------|--------------|
@@ -214,7 +214,7 @@
 
 ---
 
-### 🧠 قیدها و عبارات پایه‌ای
+### 🧠 Grundlegende Adverbien und Redewendungen
 
 | Deutsch         | Persisch         | Englisch         |
 |-----------------|------------------|------------------|
@@ -241,7 +241,7 @@
 
 ---
 
-### 🧍‍♂️ افراد و روابط اجتماعی
+### 🧍‍♂️ Personen und soziale Beziehungen
 
 | Deutsch             | Persisch         | Englisch         | Artikel |
 |---------------------|------------------|------------------|---------|
@@ -268,7 +268,7 @@
 
 ---
 
-### 🏠 اشیاء و وسایل بیشتر
+### 🏠 Weitere Gegenstände und Haushaltsartikel
 
 | Deutsch           | Persisch         | Englisch         | Artikel |
 |-------------------|------------------|------------------|---------|
@@ -295,7 +295,7 @@
 
 ---
 
-### 🍽️ غذاهای بیشتر و رستوران
+### 🍽️ Weitere Lebensmittel und Restaurant
 
 | Deutsch         | Persisch         | Englisch         | Artikel |
 |-----------------|------------------|------------------|---------|
@@ -322,7 +322,7 @@
 
 ---
 
-### 🧭 مکان‌های عمومی
+### 🧭 Öffentliche Orte
 
 | Deutsch           | Persisch         | Englisch         | Artikel |
 |-------------------|------------------|------------------|---------|
@@ -349,7 +349,7 @@
 
 ---
 
-### 🚗 حمل‌ونقل و سفر
+### 🚗 Verkehr und Reisen
 
 | Deutsch           | Persisch         | Englisch         | Artikel |
 |-------------------|------------------|------------------|---------|
@@ -375,7 +375,7 @@
 | 🔴 die Richtung    | جهت              | direction        | die     |
 ---
 
-### 📅 زمان‌های بیشتر و فصل‌ها
+### 📅 Weitere Zeitangaben und Jahreszeiten
 
 | Deutsch     | Persisch     | Englisch     |
 |-------------|--------------|--------------|
@@ -402,7 +402,7 @@
 
 ---
 
-### 🧠 افعال رایج‌تر
+### 🧠 Häufigere Verben
 
 | Deutsch     | Persisch       | Englisch     |
 |-------------|----------------|--------------|
@@ -429,7 +429,7 @@
 
 ---
 
-### 🎨 صفات بیشتر
+### 🎨 Weitere Adjektive
 
 | Deutsch     | Persisch     | Englisch     |
 |-------------|--------------|--------------|
@@ -456,7 +456,7 @@
 
 ---
 
-### 💬 عبارات و قیدهای بیشتر
+### 💬 Weitere Ausdrücke und Adverbien
 
 | Deutsch       | Persisch         | Englisch         |
 |---------------|------------------|------------------|
@@ -483,7 +483,7 @@
 
 ---
 
-### 🧠 افعال پرکاربرد و اصطلاحی
+### 🧠 Häufige und idiomatische Verben
 
 | Deutsch        | Persisch         | Englisch         |
 |----------------|------------------|------------------|
@@ -510,7 +510,7 @@
 
 ---
 
-### 🎨 صفات توصیفی‌تر
+### 🎨 Beschreibendere Adjektive
 
 | Deutsch     | Persisch     | Englisch     |
 |-------------|--------------|--------------|
@@ -537,7 +537,7 @@
 
 ---
 
-### 💬 قیدها و کلمات ربط
+### 💬 Adverbien und Konnektoren
 
 | Deutsch     | Persisch         | Englisch         |
 |-------------|------------------|------------------|
@@ -564,7 +564,7 @@
 
 ---
 
-### 🧍 ضمایر و کلمات اشاره
+### 🧍 Pronomen und Demonstrativwörter
 
 | Deutsch       | Persisch         | Englisch         |
 |---------------|------------------|------------------|
@@ -591,7 +591,7 @@
 
 ---
 
-### 🏠 اشیاء و مفاهیم روزمره
+### 🏠 Alltägliche Gegenstände und Begriffe
 
 | Deutsch           | Persisch         | Englisch         | Artikel |
 |-------------------|------------------|------------------|---------|
@@ -618,7 +618,7 @@
 
 ---
 
-### 📱 فناوری و ارتباطات
+### 📱 Technologie und Kommunikation
 
 | Deutsch           | Persisch         | Englisch         | Artikel |
 |-------------------|------------------|------------------|---------|
@@ -645,7 +645,7 @@
 
 ---
 
-### 🧘 احساسات و حالات
+### 🧘 Gefühle und Zustände
 
 | Deutsch       | Persisch         | Englisch         |
 |---------------|------------------|------------------|
