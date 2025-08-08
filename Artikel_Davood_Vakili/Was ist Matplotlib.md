@@ -194,11 +194,7 @@ Matplotlib is a foundational tool for any Python programmer looking to visualize
 
 
 
-
-
 ---
-
-
 
 
 
@@ -398,11 +394,7 @@ Matplotlib is a foundational tool for any Python programmer looking to visualize
 
 
 
-
-
 ---
-
-
 
 
 
@@ -607,5 +599,3 @@ ax.plot([1,2,3], [4,5,6], [7,8,9])
 ## 🔚 نتیجه‌گیری
 
 Matplotlib یکی از بنیادی‌ترین ابزارها برای هر برنامه‌نویس پایتون است که با یادگیری آن، امکان تجسم داده‌ها، تحلیل بهتر و ارائه حرفه‌ای‌تر اطلاعات را خواهید داشت. با وجود کتابخانه‌های جانبی مانند Seaborn و Plotly، هنوز Matplotlib در بسیاری از پروژه‌های حرفه‌ای نقش مرکزی دارد.
-
-

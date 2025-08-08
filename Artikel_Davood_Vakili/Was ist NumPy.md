@@ -166,9 +166,7 @@ NumPy ist eines der grundlegendsten Werkzeuge in den Bereichen Data Science, kü
 
 
 
-
 ---
-
 
 
 
@@ -340,11 +338,7 @@ NumPy is one of the most essential tools in data science, artificial intelligenc
 
 
 
-
-
 ---
-
-
 
 
 

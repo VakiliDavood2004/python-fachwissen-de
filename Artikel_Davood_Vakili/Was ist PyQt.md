@@ -181,11 +181,7 @@ app.exec_()
 PyQt ist ein leistungsfähiges Toolkit zur Erstellung grafischer Anwendungen mit Python. Dank seiner Flexibilität und umfangreichen Komponenten kannst du professionelle Desktop-Anwendungen entwickeln. Der Einstieg ist leicht, und mit etwas Übung kannst du beeindruckende GUIs bauen.
 
 
-
-
-----
-
-
+---
 
 
 
@@ -373,11 +369,7 @@ PyQt is a powerful toolkit for building desktop applications using Python. Its f
 
 
 
-
-
 ---
-
-
 
 
 

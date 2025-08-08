@@ -415,10 +415,7 @@ Tkinter is a simple yet powerful way to build desktop applications with Python. 
 
 
 
-
 ---
-
-
 
 
 

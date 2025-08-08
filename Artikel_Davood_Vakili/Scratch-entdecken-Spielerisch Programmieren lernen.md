@@ -231,10 +231,7 @@ Ganz egal, wie alt du bist oder wie viel du über Technik weißt: Scratch kann d
 
 
 
-
 ---
-
-
 
 
 
@@ -471,10 +468,7 @@ No matter your age or background, Scratch can be your first step toward masterin
 
 
 
-
 ---
-
-
 
 
 

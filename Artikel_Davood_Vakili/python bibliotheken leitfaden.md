@@ -191,9 +191,7 @@ Python gehört zu den beliebtesten Programmiersprachen der Welt – dank seiner 
 
 
 
-
 ---
-
 
 
 
@@ -390,9 +388,7 @@ Python is one of the most popular programming languages in the world — thanks 
 
 
 
-
 ---
-
 
 
 

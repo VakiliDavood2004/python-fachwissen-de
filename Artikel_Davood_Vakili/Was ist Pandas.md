@@ -226,13 +226,7 @@ Pandas ist ein unverzichtbares Werkzeug in der modernen Datenanalyse, sei es in 
 
 
 
-
-
-
 ---
-
-
-
 
 
 
@@ -466,12 +460,7 @@ Pandas is an essential tool for anyone working with data. Whether you’re clean
 
 
 
-
-
 ---
-
-
-
 
 
 
