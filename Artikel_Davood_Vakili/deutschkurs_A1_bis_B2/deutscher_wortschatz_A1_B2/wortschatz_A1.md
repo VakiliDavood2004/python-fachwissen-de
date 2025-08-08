@@ -1,4 +1,9 @@
 ### 👨‍👩‍👧‍👦 افراد و خانواده (Nomen – Personen)
+| آلمانی | فارسی | انگلیسی | ارتیکل |
+|--------|--------|----------|--------|
+| <span style="color:blue">der Mann</span> | مرد | man | der |
+| <span style="color:deeppink">die Frau</span> | زن | woman | die |
+| <span style="color:green">das Kind</span> | کودک | child | das |
 
 | German Word | Persian Meaning | English Meaning | Article |
 |-------------|------------------|------------------|---------|
