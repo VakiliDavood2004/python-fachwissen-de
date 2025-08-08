@@ -1,27 +1,27 @@
 ### 👨‍👩‍👧‍👦 افراد و خانواده (Nomen – Personen)
 
-| آلمانی                                      | معنی فارسی     | معنی انگلیسی   | ارتیکل |
-|--------------------------------------------|----------------|----------------|--------|
-| <span style="color:blue">der Mann</span>       | مرد            | man            | der    |
-| <span style="color:deeppink">die Frau</span>       | زن             | woman          | die    |
-| <span style="color:green">das Kind</span>       | کودک           | child          | das    |
-| <span style="color:deeppink">die Eltern</span>     | والدین         | parents        | die    |
-| <span style="color:blue">der Vater</span>      | پدر            | father         | der    |
-| <span style="color:deeppink">die Mutter</span>     | مادر           | mother         | die    |
-| <span style="color:blue">der Bruder</span>     | برادر          | brother        | der    |
-| <span style="color:deeppink">die Schwester</span>  | خواهر          | sister         | die    |
-| <span style="color:blue">der Freund</span>     | دوست (مرد)     | friend (male)  | der    |
-| <span style="color:deeppink">die Freundin</span>   | دوست (زن)      | friend (female)| die    |
-| <span style="color:blue">der Name</span>       | نام            | name           | der    |
-| <span style="color:blue">der Vorname</span>    | نام کوچک       | first name     | der    |
-| <span style="color:blue">der Nachname</span>   | نام خانوادگی   | last name      | der    |
-| <span style="color:blue">der Kollege</span>    | همکار (مرد)    | colleague (m)  | der    |
-| <span style="color:deeppink">die Leute</span>      | مردم           | people         | die    |
-| <span style="color:blue">der Nachbar</span>    | همسایه (مرد)   | neighbor (m)   | der    |
-| <span style="color:deeppink">die Familie</span>    | خانواده        | family         | die    |
-| <span style="color:green">das Baby</span>       | نوزاد          | baby           | das    |
-| <span style="color:blue">der Junge</span>      | پسر            | boy            | der    |
-| <span style="color:green">das Mädchen</span>    | دختر           | girl           | das    |
+| German Word | Persian Meaning | English Meaning | Article |
+|-------------|------------------|------------------|---------|
+| <span style='color:blue'>der Mann</span> | مرد | man | der |
+| <span style='color:pink'>die Frau</span> | زن | woman | die |
+| <span style='color:green'>das Kind</span> | کودک | child | das |
+| <span style='color:pink'>die Eltern</span> | والدین | parents | die |
+| <span style='color:blue'>der Vater</span> | پدر | father | der |
+| <span style='color:pink'>die Mutter</span> | مادر | mother | die |
+| <span style='color:blue'>der Bruder</span> | برادر | brother | der |
+| <span style='color:pink'>die Schwester</span> | خواهر | sister | die |
+| <span style='color:blue'>der Freund</span> | دوست (مذکر) | friend (male) | der |
+| <span style='color:pink'>die Freundin</span> | دوست (مونث) | friend (female) | die |
+| <span style='color:blue'>der Name</span> | نام | name | der |
+| <span style='color:blue'>der Vorname</span> | نام کوچک | first name | der |
+| <span style='color:blue'>der Nachname</span> | نام خانوادگی | last name | der |
+| <span style='color:blue'>der Kollege</span> | همکار | colleague | der |
+| <span style='color:pink'>die Leute</span> | مردم | people | die |
+| <span style='color:blue'>der Nachbar</span> | همسایه | neighbor | der |
+| <span style='color:pink'>die Familie</span> | خانواده | family | die |
+| <span style='color:green'>das Baby</span> | نوزاد | baby | das |
+| <span style='color:blue'>der Junge</span> | پسر | boy | der |
+| <span style='color:green'>das Mädchen</span> | دختر | girl | das |
 
 ---
 
