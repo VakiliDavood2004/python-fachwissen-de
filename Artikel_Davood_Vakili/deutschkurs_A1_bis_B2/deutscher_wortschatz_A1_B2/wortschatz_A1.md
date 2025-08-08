@@ -1,4 +1,4 @@
-### 👨‍👩‍👧‍👦 افراد و خانواده (Nomen – Personen)
+### 👨‍👩‍👧‍👦 Personen und Familie (Nomen – Personen)
 
 | Deutsch       | Persisch       | Englisch        | Artikel |
 |---------------|----------------|------------------|---------|
@@ -26,78 +26,84 @@
 
 ---
 
-### 🏠 خانه و اشیاء روزمره
+### 🏠 Zuhause und Alltagsgegenstände (Nomen – Dinge)
 
-- das Haus  
-- die Wohnung  
-- das Zimmer  
-- die Tür  
-- das Fenster  
-- der Tisch  
-- der Stuhl  
-- das Bett  
-- die Lampe  
-- der Schrank  
-- der Spiegel  
-- der Teppich  
-- die Küche  
-- das Bad  
-- die Dusche  
-- die Toilette  
-- der Fernseher  
-- das Handy  
-- der Computer  
-- das Buch  
-
----
-
-### 🍎 غذا و نوشیدنی
-
-- das Essen  
-- das Trinken  
-- das Brot  
-- die Butter  
-- der Käse  
-- das Fleisch  
-- das Gemüse  
-- das Obst  
-- der Apfel  
-- die Banane  
-- die Orange  
-- die Tomate  
-- die Kartoffel  
-- der Reis  
-- die Suppe  
-- das Wasser  
-- der Saft  
-- der Kaffee  
-- der Tee  
-- das Bier  
+| Deutsch             | Persisch       | Englisch        | Artikel |
+|---------------------|----------------|------------------|---------|
+| 🟢 das Haus         | خانه           | house            | das     |
+| 🔴 die Wohnung      | آپارتمان       | apartment         | die     |
+| 🟢 das Zimmer       | اتاق           | room              | das     |
+| 🔴 die Tür          | در             | door              | die     |
+| 🟢 das Fenster      | پنجره          | window            | das     |
+| 🔵 der Tisch        | میز            | table             | der     |
+| 🔵 der Stuhl        | صندلی          | chair             | der     |
+| 🟢 das Bett         | تخت            | bed               | das     |
+| 🔴 die Lampe        | چراغ           | lamp              | die     |
+| 🔵 der Schrank      | کمد            | cupboard/closet   | der     |
+| 🔵 der Spiegel      | آینه           | mirror            | der     |
+| 🔵 der Teppich      | فرش            | carpet            | der     |
+| 🔴 die Küche        | آشپزخانه       | kitchen           | die     |
+| 🟢 das Bad          | حمام           | bathroom          | das     |
+| 🔴 die Dusche       | دوش            | shower            | die     |
+| 🔴 die Toilette     | توالت          | toilet            | die     |
+| 🔵 der Fernseher    | تلویزیون       | television        | der     |
+| 🟢 das Handy        | موبایل         | mobile phone      | das     |
+| 🔵 der Computer     | کامپیوتر       | computer          | der     |
+| 🟢 das Buch         | کتاب           | book              | das     |
 
 ---
 
-### 📅 زمان و تاریخ
+### 🍎 Essen und Getränke (Nomen – Lebensmittel)
 
-- der Tag  
-- die Woche  
-- der Monat  
-- das Jahr  
-- heute  
-- morgen  
-- gestern  
-- jetzt  
-- später  
-- früh  
-- spät  
-- Uhr  
-- Stunde  
-- Minute  
-- Sekunde  
-- Montag  
-- Dienstag  
-- Mittwoch  
-- Donnerstag  
-- Freitag  
+| Deutsch         | Persisch       | Englisch       | Artikel |
+|-----------------|----------------|----------------|---------|
+| 🟢 das Essen     | غذا            | food           | das     |
+| 🟢 das Trinken   | نوشیدنی        | drink          | das     |
+| 🟢 das Brot      | نان            | bread          | das     |
+| 🔴 die Butter    | کره            | butter         | die     |
+| 🔵 der Käse      | پنیر           | cheese         | der     |
+| 🟢 das Fleisch   | گوشت           | meat           | das     |
+| 🟢 das Gemüse    | سبزیجات        | vegetables     | das     |
+| 🟢 das Obst      | میوه           | fruit          | das     |
+| 🔵 der Apfel     | سیب            | apple          | der     |
+| 🔴 die Banane    | موز            | banana         | die     |
+| 🔴 die Orange    | پرتقال         | orange         | die     |
+| 🔴 die Tomate    | گوجه‌فرنگی     | tomato         | die     |
+| 🔴 die Kartoffel | سیب‌زمینی      | potato         | die     |
+| 🔵 der Reis      | برنج           | rice           | der     |
+| 🔴 die Suppe     | سوپ            | soup           | die     |
+| 🟢 das Wasser    | آب             | water          | das     |
+| 🔵 der Saft      | آب‌میوه        | juice          | der     |
+| 🔵 der Kaffee    | قهوه           | coffee         | der     |
+| 🔵 der Tee       | چای            | tea            | der     |
+| 🟢 das Bier      | آبجو           | beer           | das     |
+
+---
+
+### 📅 Zeit und Datum (Nomen – Zeitbegriffe)
+
+| Deutsch         | Persisch       | Englisch       | Artikel |
+|-----------------|----------------|----------------|---------|
+| 🔵 der Tag       | روز            | day            | der     |
+| 🔴 die Woche     | هفته           | week           | die     |
+| 🔵 der Monat     | ماه            | month          | der     |
+| 🟢 das Jahr      | سال            | year           | das     |
+| – heute          | امروز          | today          | –       |
+| – morgen         | فردا           | tomorrow       | –       |
+| – gestern        | دیروز          | yesterday      | –       |
+| – jetzt          | اکنون          | now            | –       |
+| – später         | بعداً           | later          | –       |
+| – früh           | زود            | early          | –       |
+| – spät           | دیر            | late           | –       |
+| 🔴 die Uhr       | ساعت           | clock          | die     |
+| 🔴 die Stunde    | ساعت (زمانی)   | hour           | die     |
+| 🔴 die Minute    | دقیقه          | minute         | die     |
+| 🔴 die Sekunde   | ثانیه          | second         | die     |
+| 🔵 der Montag     | دوشنبه         | Monday         | der     |
+| 🔵 der Dienstag   | سه‌شنبه        | Tuesday        | der     |
+| 🔵 der Mittwoch   | چهارشنبه       | Wednesday      | der     |
+| 🔵 der Donnerstag | پنج‌شنبه       | Thursday       | der     |
+| 🔵 der Freitag    | جمعه           | Friday         | der     |
 
 ---
 
