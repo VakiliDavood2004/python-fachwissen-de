@@ -1,3 +1,28 @@
+# 📚 Wortschatz A1 – Themenübersicht
+
+## 📘 Grundwortschatz A1 / Basic Vocabulary A1 / واژگان پایه سطح A1
+
+### 🇩🇪 Deutsch  
+Dieses Dokument hilft dir beim Einstieg in die deutsche Sprache.  
+Hier findest du die wichtigsten und einfachsten Wörter für Anfänger – aus dem Alltag, aus der Schule, beim Einkaufen oder auf Reisen.  
+Jedes Wort hat eine englische und persische Bedeutung und einen Beispielsatz.  
+So kannst du die Wörter leicht verstehen und benutzen. Viel Erfolg beim Lernen!
+
+### 🇬🇧 English  
+This document helps you start learning German.  
+It includes the most important and easiest words for beginners – from daily life, school, shopping, or travel.  
+Each word comes with an English and Persian translation and an example sentence.  
+This way, you can understand and use the words easily. Good luck with your learning!
+
+### 🇮🇷 فارسی  
+این فایل به تو کمک می‌کنه تا یادگیری زبان آلمانی رو شروع کنی.  
+در اینجا ساده‌ترین و مهم‌ترین واژه‌ها برای مبتدی‌ها جمع‌آوری شده – از زندگی روزمره، مدرسه، خرید یا سفر.  
+هر واژه ترجمه انگلیسی و فارسی داره و همراه با یک جمله نمونه هست.  
+این روش یادگیری رو آسون‌تر و مؤثرتر می‌کنه. موفق باشی در یادگیری!
+
+---
+
+
 ### 👨‍👩‍👧‍👦 Personen und Familie (Nomen – Personen)
 
 | Deutsch       | Persisch       | Englisch        | Artikel |
@@ -669,3 +694,20 @@
 | beschäftigt   | مشغول            | busy             |
 | frei          | آزاد             | free             |
 | verfügbar     | در دسترس         | available        |
+
+---
+
+### 🇩🇪 Deutsch – Abschluss  
+Du hast viele neue Wörter gelernt.  
+Übe sie oft und benutze sie im Alltag.  
+Du machst gute Fortschritte – weiter so!
+
+### 🇬🇧 English – Ending  
+You learned many new words.  
+Practice them often and use them in daily life.  
+You are making great progress – keep going!
+
+### 🇮🇷 فارسی – پایان  
+تو واژه‌های زیادی یاد گرفتی.  
+اونا رو زیاد تمرین کن و در زندگی روزمره استفاده کن.  
+داری عالی پیش می‌ری – ادامه بده!
