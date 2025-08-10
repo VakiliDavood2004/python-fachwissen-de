@@ -1,17 +1,31 @@
+## 📘 جدول آرتیکل‌های **eine / keine** در حالت Akkusativ
+
+| ⚧ جنسیت | Nominativ | Akkusativ | مثال مثبت | مثال منفی |
+|---------|------------|------------|--------------|--------------|
+| مذکر (der) | ein | **einen** | Ich habe **einen Hund**. | Ich habe **keinen Hund**. |
+| مونث (die) | eine | **eine** | Ich sehe **eine Blume**. | Ich sehe **keine Blume**. |
+| خنثی (das) | ein | **ein** | Ich kaufe **ein Buch**. | Ich kaufe **kein Buch**. |
+| جمع (die) | keine | **keine** | Ich sehe **keine Leute**. | Ich sehe **keine Leute**. |
+
 ### 📌 افعال رایج فقط با Akkusativ
 
-| فعل | معنی | مثال ساده | ترجمه |
-|------|------|------------|--------|
-| essen | خوردن | Ich esse **einen Apfel**. | من یک سیب می‌خورم. |
-| trinken | نوشیدن | Er trinkt **einen Kaffee**. | او یک قهوه می‌نوشد. |
-| sehen | دیدن | Wir sehen **den Film**. | ما فیلم را می‌بینیم. |
-| hören | شنیدن | Ich höre **die Musik**. | من موسیقی را می‌شنوم. |
-| kaufen | خریدن | Sie kauft **ein Buch**. | او یک کتاب می‌خرد. |
-| finden | پیدا کردن | Ich finde **den Schlüssel**. | من کلید را پیدا می‌کنم. |
-| brauchen | نیاز داشتن | Wir brauchen **einen Stift**. | ما به یک خودکار نیاز داریم. |
-| haben | داشتن | Du hast **eine Idee**. | تو یک ایده داری. |
-| bekommen | دریافت کردن | Ich bekomme **ein Geschenk**. | من یک هدیه دریافت می‌کنم. |
-| mögen | دوست داشتن | Er mag **das Lied**. | او آن آهنگ را دوست دارد. |
+| 🔤 فعل | 🇮🇷 معنی | 🧠 مثال آلمانی | 🇮🇷 ترجمه | ⚧ جنسیت اسم | 📌 آرتیکل در Akkusativ |
+|--------|---------|----------------|-----------|----------------|------------------------|
+| essen | خوردن | Ich esse **einen Apfel**. | من یک سیب می‌خورم. | مذکر | einen |
+| trinken | نوشیدن | Er trinkt **einen Kaffee**. | او یک قهوه می‌نوشد. | مذکر | einen |
+| sehen | دیدن | Wir sehen **den Film**. | ما فیلم را می‌بینیم. | مذکر | den |
+| hören | شنیدن | Ich höre **die Musik**. | من موسیقی را می‌شنوم. | مونث | die |
+| kaufen | خریدن | Sie kauft **ein Buch**. | او یک کتاب می‌خرد. | خنثی | ein |
+| finden | پیدا کردن | Ich finde **den Schlüssel**. | من کلید را پیدا می‌کنم. | مذکر | den |
+| brauchen | نیاز داشتن | Wir brauchen **einen Stift**. | ما به یک خودکار نیاز داریم. | مذکر | einen |
+| haben | داشتن | Du hast **eine Idee**. | تو یک ایده داری. | مونث | eine |
+| bekommen | دریافت کردن | Ich bekomme **ein Geschenk**. | من یک هدیه دریافت می‌کنم. | خنثی | ein |
+| mögen | دوست داشتن | Er mag **das Lied**. | او آن آهنگ را دوست دارد. | خنثی | das |
+| lesen | خواندن | Ich lese **die Zeitung**. | من روزنامه را می‌خوانم. | مونث | die |
+| öffnen | باز کردن | Sie öffnet **die Tür**. | او در را باز می‌کند. | مونث | die |
+| schließen | بستن | Ich schließe **das Fenster**. | من پنجره را می‌بندم. | خنثی | das |
+| verlieren | گم کردن | Er verliert **den Schlüssel**. | او کلید را گم می‌کند. | مذکر | den |
+| schreiben | نوشتن | Ich schreibe **einen Brief**. | من یک نامه می‌نویسم. | مذکر | einen |
 
 ---
 
@@ -49,36 +63,7 @@
 
 ---
 
-## 📘 جدول جامع افعال فقط با Akkusativ
-
-| 🔤 فعل | 🇮🇷 معنی | 🧠 مثال آلمانی | 🇮🇷 ترجمه | ⚧ جنسیت اسم | 📌 آرتیکل در Akkusativ |
-|--------|---------|----------------|-----------|----------------|------------------------|
-| essen | خوردن | Ich esse **einen Apfel**. | من یک سیب می‌خورم. | مذکر | einen |
-| trinken | نوشیدن | Er trinkt **einen Kaffee**. | او یک قهوه می‌نوشد. | مذکر | einen |
-| sehen | دیدن | Wir sehen **den Film**. | ما فیلم را می‌بینیم. | مذکر | den |
-| hören | شنیدن | Ich höre **die Musik**. | من موسیقی را می‌شنوم. | مونث | die |
-| kaufen | خریدن | Sie kauft **ein Buch**. | او یک کتاب می‌خرد. | خنثی | ein |
-| finden | پیدا کردن | Ich finde **den Schlüssel**. | من کلید را پیدا می‌کنم. | مذکر | den |
-| brauchen | نیاز داشتن | Wir brauchen **einen Stift**. | ما به یک خودکار نیاز داریم. | مذکر | einen |
-| haben | داشتن | Du hast **eine Idee**. | تو یک ایده داری. | مونث | eine |
-| bekommen | دریافت کردن | Ich bekomme **ein Geschenk**. | من یک هدیه دریافت می‌کنم. | خنثی | ein |
-| mögen | دوست داشتن | Er mag **das Lied**. | او آن آهنگ را دوست دارد. | خنثی | das |
-| lesen | خواندن | Ich lese **die Zeitung**. | من روزنامه را می‌خوانم. | مونث | die |
-| öffnen | باز کردن | Sie öffnet **die Tür**. | او در را باز می‌کند. | مونث | die |
-| schließen | بستن | Ich schließe **das Fenster**. | من پنجره را می‌بندم. | خنثی | das |
-| verlieren | گم کردن | Er verliert **den Schlüssel**. | او کلید را گم می‌کند. | مذکر | den |
-| schreiben | نوشتن | Ich schreibe **einen Brief**. | من یک نامه می‌نویسم. | مذکر | einen |
-
 ---
-
-## 📘 جدول آرتیکل‌های **eine / keine** در حالت Akkusativ
-
-| ⚧ جنسیت | Nominativ | Akkusativ | مثال مثبت | مثال منفی |
-|---------|------------|------------|--------------|--------------|
-| مذکر (der) | ein | **einen** | Ich habe **einen Hund**. | Ich habe **keinen Hund**. |
-| مونث (die) | eine | **eine** | Ich sehe **eine Blume**. | Ich sehe **keine Blume**. |
-| خنثی (das) | ein | **ein** | Ich kaufe **ein Buch**. | Ich kaufe **kein Buch**. |
-| جمع (die) | keine | **keine** | Ich sehe **keine Leute**. | Ich sehe **keine Leute**. |
 
 ---
 
@@ -102,6 +87,14 @@
 ---
 ---
 ---
+## 📘 جدول آرتیکل‌های **eine / keine** در حالت Dativ
+
+| ⚧ جنسیت | Nominativ | Dativ | مثال مثبت | مثال منفی |
+|---------|------------|--------|--------------|--------------|
+| مذکر (der) | ein | **einem** | Ich helfe **einem Mann**. | Ich helfe **keinem Mann**. |
+| مونث (die) | eine | **einer** | Ich danke **einer Frau**. | Ich danke **keiner Frau**. |
+| خنثی (das) | ein | **einem** | Ich vertraue **einem Kind**. | Ich vertraue **keinem Kind**. |
+| جمع (die) | keine | **keinen** (+ اسم با -n) | Ich helfe **keinen Leuten**. | Ich helfe **keinen Leuten**. |
 
 ## 📘 جدول جامع افعال فقط با **Dativ**
 
@@ -152,14 +145,6 @@
 
 ---
 
-## 📘 جدول آرتیکل‌های **eine / keine** در حالت Dativ
-
-| ⚧ جنسیت | Nominativ | Dativ | مثال مثبت | مثال منفی |
-|---------|------------|--------|--------------|--------------|
-| مذکر (der) | ein | **einem** | Ich helfe **einem Mann**. | Ich helfe **keinem Mann**. |
-| مونث (die) | eine | **einer** | Ich danke **einer Frau**. | Ich danke **keiner Frau**. |
-| خنثی (das) | ein | **einem** | Ich vertraue **einem Kind**. | Ich vertraue **keinem Kind**. |
-| جمع (die) | keine | **keinen** (+ اسم با -n) | Ich helfe **keinen Leuten**. | Ich helfe **keinen Leuten**. |
 
 ---
 
