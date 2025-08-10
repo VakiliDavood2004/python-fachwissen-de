@@ -1,4 +1,4 @@
-## 📘 جدول آرتیکل‌های **eine / keine** در حالت Akkusativ
+# 📘 آرتیکل‌های "eine / keine" در حالت Akkusativ
 
 | ⚧ جنسیت | Nominativ | Akkusativ | مثال مثبت | مثال منفی |
 |---------|------------|------------|--------------|--------------|
@@ -7,7 +7,9 @@
 | خنثی (das) | ein | **ein** | Ich kaufe **ein Buch**. | Ich kaufe **kein Buch**. |
 | جمع (die) | keine | **keine** | Ich sehe **keine Leute**. | Ich sehe **keine Leute**. |
 
-### 📌 افعال رایج فقط با Akkusativ
+---
+
+## 📌 افعال رایج فقط با Akkusativ
 
 | 🔤 فعل | 🇮🇷 معنی | 🧠 مثال آلمانی | 🇮🇷 ترجمه | ⚧ جنسیت اسم | 📌 آرتیکل در Akkusativ |
 |--------|---------|----------------|-----------|----------------|------------------------|
@@ -29,7 +31,9 @@
 
 ---
 
-#### 1. **تغییر آرتیکل در Akkusativ**
+### 📚 نکات گرامری Akkusativ
+
+#### ✅ تغییر آرتیکل‌ها
 
 | جنسیت | Nominativ | Akkusativ |
 |--------|------------|------------|
@@ -38,56 +42,24 @@
 | خنثی | das Buch | **das Buch** |
 | جمع | die Kinder | **die Kinder** |
 
-> مثال:  
-> Ich sehe **den Mann**. (نه: *der Mann*)
-
----
-
-#### 2. **با صفت‌ها**
-اگه اسم با صفت بیاد، صفت هم باید با Akkusativ تطبیق داده بشه:
+#### ✅ با صفت‌ها
 
 > Ich kaufe **einen roten Apfel**.  
 > (صفت "roten" با "einen Apfel" تطبیق داده شده)
 
 ---
 
-### 🧩 تمرین جمله‌سازی با جای خالی
+### ✏️ تمرین‌های Akkusativ
 
-پر کردن جای خالی با Akkusativ:
-
-1. Ich sehe ___ (der Hund). → Ich sehe **den Hund**.  
-2. Wir kaufen ___ (ein Auto). → Wir kaufen **ein Auto**.  
-3. Sie hört ___ (die Musik). → Sie hört **die Musik**.  
-4. Er braucht ___ (einen Computer). → Er braucht **einen Computer**.  
-5. Du hast ___ (das Buch). → Du hast **das Buch**.
+1. Ich sehe ___ (der Hund). → **den Hund**  
+2. Wir kaufen ___ (ein Auto). → **ein Auto**  
+3. Sie hört ___ (die Musik). → **die Musik**  
+4. Er braucht ___ (einen Computer). → **einen Computer**  
+5. Du hast ___ (das Buch). → **das Buch**
 
 ---
 
----
-
----
-
-### 🧠 نکات مهم
-
-- در حالت Akkusativ، فقط **اسم‌های مذکر** تغییر می‌کنن:  
-  `ein → einen` و `kein → keinen`
-- اسم‌های مونث و خنثی همون فرم Nominativ رو حفظ می‌کنن.
-- در حالت جمع، همیشه از **keine** استفاده می‌شه (چون "ein" برای جمع وجود نداره).
-
----
-
-### ✏️ تمرین جمله‌سازی
-
-1. Ich habe ___ (Hund). → Ich habe **einen Hund**.  
-2. Ich sehe ___ (Blume). → Ich sehe **eine Blume**.  
-3. Ich kaufe ___ (Buch). → Ich kaufe **ein Buch**.  
-4. Ich habe ___ (Leute). → Ich habe **keine Leute**.  
-5. Ich esse ___ (Apfel). → Ich esse **keinen Apfel**.
-
----
----
----
-## 📘 جدول آرتیکل‌های **eine / keine** در حالت Dativ
+# 📘 آرتیکل‌های "eine / keine" در حالت Dativ
 
 | ⚧ جنسیت | Nominativ | Dativ | مثال مثبت | مثال منفی |
 |---------|------------|--------|--------------|--------------|
@@ -96,7 +68,9 @@
 | خنثی (das) | ein | **einem** | Ich vertraue **einem Kind**. | Ich vertraue **keinem Kind**. |
 | جمع (die) | keine | **keinen** (+ اسم با -n) | Ich helfe **keinen Leuten**. | Ich helfe **keinen Leuten**. |
 
-## 📘 جدول جامع افعال فقط با **Dativ**
+---
+
+## 📌 افعال رایج فقط با Dativ
 
 | 🔤 فعل | 🇮🇷 معنی | 🧠 مثال آلمانی | 🇮🇷 ترجمه | ⚧ جنسیت اسم | 📌 آرتیکل در Dativ |
 |--------|---------|----------------|-----------|----------------|------------------------|
@@ -112,7 +86,9 @@
 
 ---
 
-#### 1. **تغییر آرتیکل در Dativ**
+### 📚 نکات گرامری Dativ
+
+#### ✅ تغییر آرتیکل‌ها
 
 | جنسیت | Nominativ | Dativ |
 |--------|------------|--------|
@@ -121,50 +97,19 @@
 | خنثی | das Kind | **dem Kind** |
 | جمع | die Leute | **den Leuten** (+ **-n** به اسم) |
 
-> مثال جمع:  
-> Ich helfe **den Kindern**.  
-> (اسم جمع در Dativ معمولاً به **-n** ختم می‌شه)
-
----
-
-#### 2. **با صفت‌ها**
-مثل Akkusativ، صفت‌ها هم باید با Dativ تطبیق داده بشن:
+#### ✅ با صفت‌ها
 
 > Ich helfe **dem alten Mann**.  
 > (صفت "alten" با "dem Mann" تطبیق داده شده)
 
 ---
 
-### ✏️ تمرین جمله‌سازی با جای خالی
+### ✏️ تمرین‌های Dativ
 
-1. Ich helfe ___ (der Frau). → Ich helfe **der Frau**.  
-2. Wir danken ___ (dem Lehrer). → Wir danken **dem Lehrer**.  
-3. Das Buch gehört ___ (dem Kind). → Das Buch gehört **dem Kind**.  
-4. Ich vertraue ___ (meinem Freund). → Ich vertraue **meinem Freund**.  
-5. Wir gratulieren ___ (den Eltern). → Wir gratulieren **den Eltern**.
-
----
-
-
----
-
-### 🧠 نکات مهم
-
-- در حالت Dativ:
-  - **ein → einem/einer**
-  - **kein → keinem/keiner/keinen**
-- در حالت جمع، همیشه از **keinen** استفاده می‌شه و اسم معمولاً به **-n** ختم می‌شه.
-- تفاوت اصلی با Akkusativ اینه که مونث هم تغییر می‌کنه:  
-  `eine → einer` و `keine → keiner`
-
----
-
-### ✏️ تمرین جمله‌سازی
-
-1. Ich helfe ___ (eine Frau). → Ich helfe **einer Frau**.  
-2. Ich helfe ___ (keine Frau). → Ich helfe **keiner Frau**.  
-3. Wir danken ___ (ein Mann). → Wir danken **einem Mann**.  
-4. Wir danken ___ (kein Mann). → Wir danken **keinem Mann**.  
-5. Ich vertraue ___ (ein Kind). → Ich vertraue **einem Kind**.  
-6. Ich vertraue ___ (kein Kind). → Ich vertraue **keinem Kind**.  
-7. Ich helfe ___ (keine Leute). → Ich helfe **keinen Leuten**.
+1. Ich helfe ___ (eine Frau). → **einer Frau**  
+2. Ich helfe ___ (keine Frau). → **keiner Frau**  
+3. Wir danken ___ (ein Mann). → **einem Mann**  
+4. Wir danken ___ (kein Mann). → **keinem Mann**  
+5. Ich vertraue ___ (ein Kind). → **einem Kind**  
+6. Ich vertraue ___ (kein Kind). → **keinem Kind**  
+7. Ich helfe ___ (keine Leute). → **keinen Leuten**
