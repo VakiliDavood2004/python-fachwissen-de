@@ -1,4 +1,4 @@
-# 📘 Grammatik – Niveau A2
+# 🇩🇪 Grammatik – Niveau A2
 
 Ein Überblick über die wichtigsten Grammatikthemen für das Niveau A2.
 

@@ -1,4 +1,4 @@
-# 📘 Grammatik – Niveau B1
+# 🇩🇪 Grammatik – Niveau B1
 
 Ein Überblick über die wichtigsten Grammatikthemen für das Niveau B1.
 
