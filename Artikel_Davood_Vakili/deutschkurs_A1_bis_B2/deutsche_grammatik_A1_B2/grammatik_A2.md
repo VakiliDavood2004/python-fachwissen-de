@@ -1,111 +1,58 @@
-## 📘 آموزش کامل زمان گذشته‌ی نزدیک (Perfekt) در زبان آلمانی
+# 📘 Grammatik – Niveau A2
 
-### 🧠 Perfekt یعنی چی؟
+Ein Überblick über die wichtigsten Grammatikthemen für das Niveau A2.
 
-زمان **Perfekt** برای بیان کارهایی استفاده می‌شه که در گذشته انجام شدن و **نتیجه‌ی اون‌ها هنوز مهمه یا قابل مشاهده‌ست**.
+## 🧱 1. Satzstruktur (ساختار جمله)
+- Nebensätze mit „weil“, „dass“, „wenn“ (جملات فرعی با weil، dass، wenn)
+- Wortstellung in Haupt- und Nebensätzen (ترتیب کلمات در جمله اصلی و فرعی)
+- Konnektoren: dann, danach, trotzdem, außerdem
 
-> 📌 بیشتر در **مکالمه‌ی روزمره**، پیام‌ها، ایمیل‌های غیررسمی استفاده می‌شه.  
-> در نوشتار رسمی، معمولاً از **Präteritum** استفاده می‌شه.
+## 🔄 2. Verbformen (صرف فعل‌ها)
+- Präteritum von „sein“, „haben“, „werden“, Modalverben (گذشته ساده افعال پرکاربرد)
+- Perfekt mit „haben“ und „sein“ (گذشته کامل با haben و sein)
+- Trennbare und untrennbare Verben im Perfekt (افعال جداشدنی و نشدنی در گذشته)
 
----
+## 🧍 3. Nomen und Artikel (اسم‌ها و آرتیکل‌ها)
+- Wechselpräpositionen mit Dativ/Akkusativ (حروف اضافه دوحالته)
+- Genitiv – erste Einführung (حالت ملکی)
+- Wiederholung: Pluralformen, Artikel im Kontext
 
-### 🛠️ ساختار جمله در Perfekt
+## 🧠 4. Pronomen (ضمیرها)
+- Relativpronomen: der, die, das (ضمیرهای موصولی ساده)
+- Wiederholung: Reflexivpronomen
+- Demonstrativpronomen: dieser, jener
 
-> ✅ **فعل کمکی (haben یا sein) + Partizip II (شکل سوم فعل)**
+## 🧾 5. Adjektive (صفت‌ها)
+- Adjektivdeklination mit bestimmten/unbestimmten Artikeln (صرف صفت‌ها)
+- Wiederholung: Steigerung (مقایسه)
 
-| بخش جمله | جایگاه | مثال |
-|-----------|--------|--------|
-| فاعل | اول | Ich |
-| فعل کمکی | دوم | habe / bin |
-| بقیه جمله | وسط | gestern Pizza |
-| Partizip II | آخر | gegessen / gegangen |
+## 🧩 6. Präpositionen (حروف اضافه)
+- Lokale Präpositionen mit Wechselpräpositionen (in, an, auf …)
+- Temporale Präpositionen: während, seit, bis, vor
+- Präpositionen mit Genitiv: trotz, während, wegen
 
-> مثال‌ها:  
-> Ich **habe** gestern Pizza **gegessen**.  
-> Er **ist** nach Hause **gegangen**.
+## 🗣️ 7. Imperativ (فعل امری)
+- Wiederholung und Erweiterung: höflicher Imperativ mit „bitte“
 
----
+## 🧮 8. Zahlen und Mengen (اعداد و مقدارها)
+- Brüche und Prozente (کسرها و درصدها)
+- Mengenangaben mit „kein“, „nicht“, „etwas“, „nichts“
 
-### 🔍 کِی از "haben" و کِی از "sein" استفاده کنیم؟
+## 🧾 9. Konjunktionen (حروف ربط)
+- Subjunktionen: obwohl, dass, wenn
+- Konjunktionen mit Positionseffekten: deshalb, trotzdem, außerdem
 
-| فعل‌ها | فعل کمکی | مثال |
-|--------|-----------|--------|
-| افعال حرکتی (gehen, kommen, fahren...) | **sein** | Ich **bin** gegangen. |
-| افعال تغییر حالت (aufstehen, einschlafen...) | **sein** | Er **ist** eingeschlafen. |
-| بقیه‌ی افعال (خوردن، دیدن، نوشتن...) | **haben** | Wir **haben** gelesen. |
+## 🧍‍♂️ 10. Reflexive Verben (افعال انعکاسی)
+- mit Akkusativ und Dativ: sich freuen vs. sich etwas vorstellen
 
----
+## 🧠 11. Modalverben im Perfekt (افعال مدال در گذشته)
+- Ich habe gehen müssen. / Ich habe nicht arbeiten dürfen.
 
-### 📚 جدول افعال پرکاربرد با Perfekt
-
-| فعل | Partizip II | فعل کمکی | مثال کامل |
-|------|--------------|-----------|--------------|
-| machen | gemacht | haben | Ich habe meine Hausaufgaben gemacht. |
-| essen | gegessen | haben | Wir haben Pizza gegessen. |
-| gehen | gegangen | sein | Sie ist ins Kino gegangen. |
-| lesen | gelesen | haben | Ich habe ein Buch gelesen. |
-| kommen | gekommen | sein | Er ist spät gekommen. |
-| schreiben | geschrieben | haben | Du hast einen Brief geschrieben. |
-| schlafen | geschlafen | haben | Ich habe gut geschlafen. |
-| fahren | gefahren | sein | Wir sind nach Berlin gefahren. |
-
----
-
-### 🧩 ساختن Partizip II
-
-#### 1. افعال باقاعده (regelmäßige Verben)
-
-> ساختار: **ge + ریشه + t**
-
-| فعل | Partizip II |
-|------|--------------|
-| machen | gemacht |
-| spielen | gespielt |
-| lernen | gelernt |
-| arbeiten | gearbeitet |
-
-#### 2. افعال بی‌قاعده (unregelmäßige Verben)
-
-> ساختار: **ge + تغییر ریشه + en**
-
-| فعل | Partizip II |
-|------|--------------|
-| essen | gegessen |
-| gehen | gegangen |
-| sehen | gesehen |
-| schreiben | geschrieben |
+## 📌 12. Wiederholung & Vertiefung (مرور و تعمیق)
+- Satzbau mit mehreren Objekten
+- Kombination von Zeitformen
+- Typische Fehlerquellen und Korrekturen
 
 ---
 
-### ✏️ تمرین جمله‌سازی با Perfekt
-
-پر کردن جای خالی با فعل کمکی و Partizip II:
-
-1. Ich ___ (lesen) ein Buch. → Ich **habe gelesen** ein Buch.  
-2. Er ___ (gehen) nach Hause. → Er **ist gegangen** nach Hause.  
-3. Wir ___ (machen) die Aufgabe. → Wir **haben gemacht** die Aufgabe.  
-4. Sie ___ (kommen) spät. → Sie **ist gekommen** spät.  
-5. Du ___ (schreiben) einen Brief. → Du **hast geschrieben** einen Brief.
-
----
-
-### 🧠 نکات مهم
-
-- فعل کمکی همیشه در جایگاه دوم جمله میاد.  
-- Partizip II همیشه در آخر جمله قرار می‌گیره.  
-- افعال حرکتی و تغییر حالت با **sein** میان، بقیه با **haben**.  
-- افعال بی‌قاعده شکل خاصی در Partizip II دارن، باید حفظ بشن.
-
----
-
-### 🎯 خلاصه‌ی تصویری
-
-```markdown
-Perfekt = فعل کمکی (haben/sein) + Partizip II
-
-مثال‌ها:
-Ich habe gegessen. ✅
-Er ist gegangen. ✅
-Wir haben gespielt. ✅
-Sie ist gekommen. ✅
-```
+📌 **Hinweis:** Diese Liste bietet eine strukturierte Übersicht für A2-Lernende. Zu jedem Thema können Beispiele, Übungen und visuelle Hilfen ergänzt werden.
