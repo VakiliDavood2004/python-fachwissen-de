@@ -1,3 +1,71 @@
+| **Kasus →**              | **Nominativ** | **Akkusativ** | **Dativ**                      |
+| ------------------------ | ------------- | ------------- | ------------------------------ |
+| **Maskulin** (der / ein) | der / ein     | den / einen   | dem / einem                    |
+| **Feminin** (die / eine) | die / eine    | die / eine    | der / einer                    |
+| **Neutrum** (das / ein)  | das / ein     | das / ein     | dem / einem                    |
+| **Plural** (die / keine) | die / keine   | die / keine   | den + **-n** / keinen + **-n** |
+
+---
+
+# افعال آلمانی – Akkusativ و Dativ
+
+## 1. افعال Akkusativ (فقط مفعول مستقیم)
+این افعال همیشه بعدشون Akkusativ می‌آید:
+
+- **haben** – داشتن  
+- **brauchen** – نیاز داشتن  
+- **sehen** – دیدن  
+- **hören** – شنیدن  
+- **lesen** – خواندن  
+- **kaufen** – خریدن  
+- **essen** – خوردن  
+- **trinken** – نوشیدن  
+- **besuchen** – ملاقات کردن  
+- **vergessen** – فراموش کردن  
+- **schreiben** – نوشتن  
+- **machen** – انجام دادن  
+- **finden** – پیدا کردن  
+
+---
+
+## 2. افعال Dativ (فقط مفعول غیرمستقیم)
+این افعال همیشه بعدشون Dativ می‌آید:
+
+- **helfen** – کمک کردن  
+- **danken** – تشکر کردن  
+- **gefallen** – خوش آمدن  
+- **gehören** – تعلق داشتن  
+- **gratulieren** – تبریک گفتن  
+- **vertrauen** – اعتماد کردن  
+- **zuhören** – گوش دادن  
+
+---
+
+## 3. افعال دو مفعولی (Dativ + Akkusativ)
+این افعال هم مفعول غیرمستقیم (Dativ) می‌گیرند، هم مفعول مستقیم (Akkusativ):
+
+- **geben** – دادن  
+- **schenken** – هدیه دادن  
+- **schicken** – فرستادن  
+- **zeigen** – نشان دادن  
+- **bringen** – آوردن  
+- **erklären** – توضیح دادن  
+- **schreiben** – نوشتن (به کسی چیزی نوشتن)  
+- **verkaufen** – فروختن  
+
+---
+
+## نکته مهم:
+در افعال دو مفعولی، **Dativ معمولاً شخص** است و **Akkusativ چیز**.
+
+**مثال:**
+```text
+Ich gebe dem Mann (Dativ) das Buch (Akkusativ).
+
+
+---
+
+
 # 📘 آرتیکل‌های "eine / keine" در حالت Akkusativ
 
 | ⚧ جنسیت | Nominativ | Akkusativ | مثال مثبت | مثال منفی |
