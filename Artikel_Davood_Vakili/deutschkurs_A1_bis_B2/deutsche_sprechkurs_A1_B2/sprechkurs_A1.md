@@ -65,6 +65,23 @@
 - معرفی خود در متن  
 
 ---
+---
+---
+---
+---
+---
 
-📘 این موضوعات پایه‌ای‌ترین موقعیت‌های ارتباطی در زبان آلمانی هستند.  
-در هر فایل واژگان سطح A1، واژه‌ها بر اساس همین موضوعات دسته‌بندی شده‌اند.
+
+
+| 👤 Person | 🇩🇪 Deutsch                                             | 🇬🇧 English                                             | 🇮🇷 فارسی                                               |
+|----------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| A        | Hallo! Wie heißt du?                                   | Hello! What’s your name?                               | سلام! اسم تو چیه؟                                     |
+| B        | Ich heiße Sara. Und du?                                | My name is Sara. And you?                              | من سارا هستم. و تو؟                                   |
+| A        | Ich bin Lukas. Wie alt bist du?                        | I’m Lukas. How old are you?                            | من لوکاس هستم. چند سالته؟                            |
+| B        | Ich bin 25 Jahre alt.                                  | I’m 25 years old.                                      | من ۲۵ سالمه.                                          |
+| A        | Woher kommst du?                                       | Where are you from?                                    | اهل کجایی؟                                            |
+| B        | Ich komme aus dem Iran. Und du?                        | I’m from Iran. And you?                                | من اهل ایرانم. و تو؟                                 |
+| A        | Ich komme aus Deutschland.                             | I’m from Germany.                                      | من اهل آلمانم.                                        |
+| B        | Welche Sprachen sprichst du?                           | What languages do you speak?                           | چه زبان‌هایی صحبت می‌کنی؟                           |
+| A        | Ich spreche Deutsch und ein bisschen Englisch. Und du? | I speak German and a little English. And you?          | من آلمانی و کمی انگلیسی صحبت می‌کنم. و تو؟         |
+| B        | Ich spreche Persisch, Englisch und ein bisschen Deutsch.| I speak Persian, English and a little German.          | من فارسی، انگلیسی و کمی آلمانی صحبت می‌کنم.         |
