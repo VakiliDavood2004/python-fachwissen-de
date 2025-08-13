@@ -1,74 +1,149 @@
-# 📋 موضوعات رایج در سطح A1 زبان آلمانی
+# 🗣️ Vollständige Sammlung von Gesprächen auf Niveau A1
 
-## 🧍‍♂️ معرفی شخصی
-- ### نام، سن، ملیت، زبان‌ها  
-- ### خانواده و دوستان  
-- ### شغل و تحصیلات  
-- ### علایق و سرگرمی‌ها  
+Diese Datei enthält eine umfassende und praxisnahe Sammlung einfacher Gespräche auf Deutsch für Lernende auf dem Sprachniveau A1. Die Dialoge sind dreisprachig – Deutsch, Englisch und Persisch – dargestellt, um das Lernen einfacher, schneller und zugänglicher zu machen.
 
-## 🏠 خانه و زندگی روزمره
-- ### اتاق‌ها و وسایل خانه  
-- ### فعالیت‌های روزانه (بیدار شدن، غذا خوردن، خوابیدن) 
-- ### کارهای خانه (تمیز کردن، آشپزی)  
+Jeder Dialog ist klar strukturiert, enthält wichtige Vokabeln und verfolgt ein konkretes Lernziel. So können Lernende ihre Sprech- und Hörverstehen-Kompetenzen in alltäglichen Situationen gezielt verbessern.
 
-## 🛍️ خرید و بازار
-- ### مواد غذایی و خوراکی‌ها  
-- ### لباس‌ها و اندازه‌ها  
-- ### قیمت‌ها، پول، پرداخت  
-- ### گفت‌و‌گو در فروشگاه  
+Die behandelten Themen sind:
 
-## 🍽️ غذا و نوشیدنی
-- ### وعده‌های غذایی  
-- ### رستوران و منو  
-- ### سفارش دادن غذا  
-- ### مزه‌ها و ترجیحات  
+## 🧍‍♂️ Persönliche Vorstellung  
+Name, Alter, Nationalität, Sprachen – Familie und Freunde – Beruf und Ausbildung – Interessen und Hobbys  
 
-## 🕒 زمان و برنامه‌ریزی
-- ### روزهای هفته، ماه‌ها، فصل‌ها  
-- ### ساعت و زمان‌بندی  
-- ### برنامه روزانه و قرار ملاقات  
+## 🏠 Zuhause und Alltag  
+Zimmer und Gegenstände im Haus – Tagesablauf – Hausarbeit  
 
-## 🚗 حمل‌ونقل و مسیرها
-- ### وسایل نقلیه (اتوبوس، قطار، ماشین)  
-- ### پرسیدن و دادن مسیر  
-- ### خرید بلیت و سفر کوتاه  
+## 🛍️ Einkaufen und Markt  
+Lebensmittel – Kleidung und Größen – Preise und Bezahlung – Gespräche im Geschäft  
 
-## 📍 مکان‌ها در شهر
-- مکان‌های عمومی (بانک، پست، سوپرمارکت، داروخانه)  
-- گفت‌و‌گو درباره مکان‌ها  
-- پرسیدن آدرس  
+## 🍽️ Essen und Trinken  
+Mahlzeiten – Restaurant und Speisekarte – Essen bestellen – Geschmäcker und Vorlieben  
 
-## 🏥 سلامت و بدن
-- اعضای بدن  
-- احساسات و بیماری‌های ساده  
-- رفتن به پزشک  
-- داروها و توصیه‌ها  
+## 🕒 Zeit und Planung  
+Wochentage, Monate, Jahreszeiten – Uhrzeit – Tagespläne und Termine  
 
-## 📚 مدرسه و یادگیری
-- کلاس درس و وسایل آموزشی  
-- زبان‌ها و یادگیری  
-- فعالیت‌های آموزشی ساده  
+## 🚗 Verkehr und Wege  
+Verkehrsmittel – Nach dem Weg fragen und Weg beschreiben – Fahrkarten kaufen und Kurzreisen  
 
-## 📅 مناسبت‌ها و تعطیلات
-- تولد، جشن‌ها، تعطیلات  
-- تبریک گفتن و دعوت کردن  
-- برنامه‌ریزی برای سفر یا مهمانی  
+## 📍 Orte in der Stadt  
+Öffentliche Orte – Über Orte sprechen – Nach Adressen fragen  
 
-## 📧 ارتباطات ساده
-- تلفن زدن  
-- نوشتن ایمیل یا پیام کوتاه  
-- معرفی خود در متن  
+## 🏥 Gesundheit und Körper  
+Körperteile – Gefühle und einfache Krankheiten – Zum Arzt gehen – Medikamente und Empfehlungen  
+
+## 📚 Schule und Lernen  
+Klassenzimmer und Lernmaterialien – Sprachen und Lernen – Einfache Lernaktivitäten  
+
+## 📅 Feste und Feiertage  
+Geburtstag, Feiern, Ferien – Gratulieren und Einladen – Reise oder Party planen  
+
+## 📧 Einfache Kommunikation  
+Telefonieren – E-Mails oder Kurznachrichten schreiben – Sich schriftlich vorstellen  
 
 ---
+
+Diese Sammlung eignet sich hervorragend für den Unterricht, das Selbststudium oder pädagogische Projekte. Sie bietet eine solide Grundlage für das Deutschlernen auf Anfängerniveau und unterstützt Lernende dabei, sich sicher in alltäglichen Gesprächen auszudrücken.
+
+
+
+# 🗣️ Complete Collection of A1-Level German Conversations
+
+This file contains a comprehensive and practical set of beginner-level German conversations (A1), designed to support language learners in mastering everyday communication. Each dialogue is presented in three languages—German, English, and Persian—to make learning easier, faster, and more accessible.
+
+The conversations are structured with clear topics, essential vocabulary, and defined learning goals, helping learners build confidence in speaking and understanding German in real-life situations.
+
+The topics covered include:
+
+## 🧍‍♂️ Personal Introduction  
+Name, age, nationality, languages – Family and friends – Job and education – Interests and hobbies  
+
+## 🏠 Home and Daily Life  
+Rooms and household items – Daily routines – Housework  
+
+## 🛍️ Shopping and Markets  
+Groceries and food – Clothes and sizes – Prices and payment – Conversations in shops  
+
+## 🍽️ Food and Drink  
+Meals – Restaurant and menu – Ordering food – Tastes and preferences  
+
+## 🕒 Time and Scheduling  
+Days of the week, months, seasons – Telling time – Daily plans and appointments  
+
+## 🚗 Transportation and Directions  
+Vehicles – Asking and giving directions – Buying tickets and short trips  
+
+## 📍 Places in Town  
+Public places – Talking about locations – Asking for addresses  
+
+## 🏥 Health and the Body  
+Body parts – Feelings and common illnesses – Visiting the doctor – Medicines and advice  
+
+## 📚 School and Learning  
+Classroom and learning tools – Languages and studying – Simple educational activities  
+
+## 📅 Celebrations and Holidays  
+Birthdays, parties, holidays – Congratulating and inviting – Planning trips or events  
+
+## 📧 Simple Communication  
+Making phone calls – Writing emails or short messages – Introducing yourself in writing  
+
 ---
+
+This collection is ideal for classroom use, self-study, or educational projects. It provides a solid foundation for learning German at the beginner level and helps learners engage confidently in everyday conversations.
+
+
+
+
+
+# 🗣️ مجموعه‌ی کامل مکالمات سطح A1 زبان آلمانی
+
+این فایل شامل مجموعه‌ای جامع و کاربردی از مکالمات ساده‌ی زبان آلمانی در سطح A1 است که برای زبان‌آموزان مبتدی طراحی شده است. مکالمه‌ها به‌صورت سه‌زبانه (آلمانی، انگلیسی و فارسی) ارائه شده‌اند تا یادگیری آسان‌تر، سریع‌تر و قابل‌فهم‌تر باشد.
+
+هر گفت‌وگو با ساختاری منظم، واژگان کلیدی، و اهداف آموزشی مشخص همراه است و به زبان‌آموز کمک می‌کند تا مهارت‌های گفتاری و درک مطلب خود را در موقعیت‌های روزمره تقویت کند.
+
+موضوعات این مجموعه شامل موارد زیر است:
+
+## 🧍‍♂️ معرفی شخصی  
+نام، سن، ملیت، زبان‌ها – خانواده و دوستان – شغل و تحصیلات – علایق و سرگرمی‌ها  
+
+## 🏠 خانه و زندگی روزمره  
+اتاق‌ها و وسایل خانه – فعالیت‌های روزانه – کارهای خانه  
+
+## 🛍️ خرید و بازار  
+مواد غذایی – لباس‌ها و اندازه‌ها – قیمت‌ها و پرداخت – گفت‌وگو در فروشگاه  
+
+## 🍽️ غذا و نوشیدنی  
+وعده‌های غذایی – رستوران و منو – سفارش دادن غذا – مزه‌ها و ترجیحات  
+
+## 🕒 زمان و برنامه‌ریزی  
+روزهای هفته، ماه‌ها، فصل‌ها – ساعت و زمان‌بندی – برنامه روزانه و قرار ملاقات  
+
+## 🚗 حمل‌ونقل و مسیرها  
+وسایل نقلیه – پرسیدن و دادن مسیر – خرید بلیت و سفر کوتاه  
+
+## 📍 مکان‌ها در شهر  
+مکان‌های عمومی – گفت‌وگو درباره مکان‌ها – پرسیدن آدرس  
+
+## 🏥 سلامت و بدن  
+اعضای بدن – احساسات و بیماری‌های ساده – رفتن به پزشک – داروها و توصیه‌ها  
+
+## 📚 مدرسه و یادگیری  
+کلاس درس و وسایل آموزشی – زبان‌ها و یادگیری – فعالیت‌های آموزشی ساده  
+
+## 📅 مناسبت‌ها و تعطیلات  
+تولد، جشن‌ها، تعطیلات – تبریک گفتن و دعوت کردن – برنامه‌ریزی برای سفر یا مهمانی  
+
+## 📧 ارتباطات ساده  
+تلفن زدن – نوشتن ایمیل یا پیام کوتاه – معرفی خود در متن  
+
 ---
----
----
----
+
+این مجموعه برای استفاده در کلاس درس، مطالعه‌ی شخصی، یا پروژه‌های آموزشی بسیار مناسب است و می‌تواند پایه‌ای قوی برای یادگیری زبان آلمانی در سطح مقدماتی باشد.
 
 
 
 # 🗣️ A1 Dialog 1 – Vorstellungsgespräch / Introduction Dialogue / گفت‌وگوی معرفی
+---
+
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -76,7 +151,6 @@ A simple multilingual conversation for beginners (A1 level).
 
 ---
 
-## 📋 Dialog – Gespräch zwischen zwei Personen
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                             | 🇬🇧 English                                             | 🇮🇷 فارسی                                               |
 |-----------|-----------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
@@ -115,14 +189,12 @@ A simple multilingual conversation for beginners (A1 level).
 - To be able to introduce yourself (name, age, origin, languages)  
 - توانایی معرفی خود (نام، سن، ملیت، زبان‌ها)
 
-
 ---
 ---
-
 
 # 🗣️ A1 Dialog 2 – Familie und Freunde / Family and Friends / خانواده و دوستان
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -169,14 +241,12 @@ A simple multilingual conversation for beginners (A1 level).
 - Talking about friends (best friends, activities)  
 - صحبت درباره دوستان (بهترین دوست، فعالیت‌ها)
 
-
 ---
 ---
-
 
 # 🗣️ A1 Dialog 3 – Beruf und Ausbildung / Job and Education / شغل و تحصیلات
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -227,10 +297,9 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-
 # 🗣️ A1 Dialog 4 – Interessen und Hobbys / Interests and Hobbies / علایق و سرگرمی‌ها
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -279,14 +348,12 @@ A simple multilingual conversation for beginners (A1 level).
 - Describing leisure activities  
 - توصیف فعالیت‌های اوقات فراغت
 
-
 ---
 ---
-
 
 # 🗣️ A1 Dialog 5 – Zimmer und Möbel / Rooms and Furniture / اتاق‌ها و وسایل خانه
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -338,10 +405,9 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-
 # 🗣️ A1 Dialog 6 – Tagesablauf / Daily Routine / فعالیت‌های روزانه
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -395,10 +461,9 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-
 # 🗣️ A1 Dialog 7 – Hausarbeit / Housework / کارهای خانه
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -449,10 +514,9 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-
 # 🗣️ A1 Dialog 8 – Lebensmittel und Essen / Food and Groceries / مواد غذایی و خوراکی‌ها
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -507,10 +571,9 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-
 # 🗣️ A1 Dialog 9 – Kleidung und Größen / Clothes and Sizes / لباس‌ها و اندازه‌ها
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -560,10 +623,9 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-
 # 🗣️ A1 Dialog 10 – Preise, Geld, Bezahlen / Prices, Money, Paying / قیمت‌ها، پول، پرداخت
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -609,10 +671,9 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-
 # 🗣️ A1 Dialog 11 – Im Geschäft / At the Store / گفت‌و‌گو در فروشگاه
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -657,16 +718,11 @@ A simple multilingual conversation for beginners (A1 level).
 - فهمیدن مقدار و قیمت‌ها
 
 ---
-
-
-
-عالی Davood! این هم دیالوگ شماره 12 با موضوع «وعده‌های غذایی» — مناسب سطح A1، با ساختار سه‌زبانه و تمرکز بر صحبت درباره صبحانه، ناهار و شام:
-
 ---
 
 # 🗣️ A1 Dialog 12 – Mahlzeiten / Meals / وعده‌های غذایی
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -713,19 +769,11 @@ A simple multilingual conversation for beginners (A1 level).
 - توصیف عادت‌های غذایی
 
 ---
-
-اگه موضوع بعدی رو هم آماده داری، فقط بگو تا دیالوگ شماره 13 رو برات بنویسم! مثلاً «در داروخانه»، «در ایستگاه قطار»، یا «در هتل»؟ 🍽️🥗🍚🫖
-
-
-
-
-عالی Davood! این هم دیالوگ شماره 13 با موضوع «رستوران و منو» — مناسب سطح A1، با تمرکز بر سفارش غذا، پرسیدن درباره منو و ترجیحات غذایی:
-
 ---
 
 # 🗣️ A1 Dialog 13 – Im Restaurant und die Speisekarte / At the Restaurant and the Menu / رستوران و منو
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -772,18 +820,11 @@ A simple multilingual conversation for beginners (A1 level).
 - پرسیدن پیشنهاد غذا و گزینه‌های گیاهی
 
 ---
-
-اگه آماده‌ای، بگو تا دیالوگ شماره 14 رو هم برات بنویسم! مثلاً «در داروخانه»، «در هتل»، یا «پرسیدن مسیر»؟ 🍲🥗🍽️🧾
-
-
-
-عالی Davood! این هم دیالوگ شماره 14 با موضوع «سفارش دادن غذا» — مناسب سطح A1، با تمرکز بر انتخاب غذا، نوشیدنی، و نحوه سفارش در رستوران:
-
 ---
 
 # 🗣️ A1 Dialog 14 – Essen bestellen / Ordering Food / سفارش دادن غذا
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -825,17 +866,11 @@ A simple multilingual conversation for beginners (A1 level).
 - نام بردن غذاها و بیان ترجیحات
 
 ---
-
-اگه دوست داری دیالوگ شماره 15 رو هم بنویسم، فقط موضوعش رو بگو! مثلاً «در داروخانه»، «در ایستگاه قطار»، یا «پرسیدن مسیر»؟ 🐟🍚🥣🧃
-
-
-حتماً Davood! این هم دیالوگ شماره 15 با موضوع «مزه‌ها و ترجیحات» — مناسب سطح A1، با تمرکز بر بیان سلیقه‌های غذایی و توصیف مزه‌ها:
-
 ---
 
 # 🗣️ A1 Dialog 15 – Geschmäcker und Vorlieben / Tastes and Preferences / مزه‌ها و ترجیحات
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -884,16 +919,11 @@ A simple multilingual conversation for beginners (A1 level).
 - بیان ترجیحات غذایی و نوشیدنی‌ها
 
 ---
-
-اگه موضوع بعدی رو آماده داری، فقط بفرست تا دیالوگ شماره 16 رو برات طراحی کنم! 🍫🌶️🥤🧂
-
-حتماً Davood! این هم دیالوگ شماره 16 با موضوع «روزهای هفته، ماه‌ها، فصل‌ها» — مناسب سطح A1، با تمرکز بر صحبت درباره زمان، برنامه‌ها و ترجیحات فصلی:
-
 ---
 
 # 🗣️ A1 Dialog 16 – Wochentage, Monate, Jahreszeiten / Days, Months, Seasons / روزهای هفته، ماه‌ها، فصل‌ها
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -939,17 +969,11 @@ A simple multilingual conversation for beginners (A1 level).
 - صحبت درباره علایق شخصی و برنامه‌ها
 
 ---
-
-اگه موضوع بعدی رو آماده داری، فقط بفرست تا دیالوگ شماره 17 رو برات طراحی کنم! 📅🌸☀️❄️
-
-
-حتماً Davood! این هم دیالوگ شماره 17 با موضوع «ساعت و زمان‌بندی» — مناسب سطح A1، با تمرکز بر پرسیدن ساعت، تنظیم قرار ملاقات و بیان زمان‌های روز:
-
 ---
 
 # 🗣️ A1 Dialog 17 – Uhrzeit und Zeitplanung / Time and Scheduling / ساعت و زمان‌بندی
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -994,17 +1018,11 @@ A simple multilingual conversation for beginners (A1 level).
 - تنظیم قرار ملاقات و برنامه‌ریزی زمانی
 
 ---
-
-اگه موضوع بعدی رو آماده داری، فقط بفرست تا دیالوگ شماره 18 رو برات طراحی کنم! ⏰📆🕘🗓️
-
-
-حتماً Davood! این هم دیالوگ شماره 18 با موضوع «برنامه روزانه و قرار ملاقات» — مناسب سطح A1، با تمرکز بر تنظیم برنامه، هماهنگی قرارها، و بیان فعالیت‌های روزانه:
-
 ---
 
 # 🗣️ A1 Dialog 18 – Tagesplan und Verabredung / Daily Schedule and Appointment / برنامه روزانه و قرار ملاقات
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -1048,16 +1066,11 @@ A simple multilingual conversation for beginners (A1 level).
 - برنامه‌ریزی و صحبت درباره قرار ملاقات
 
 ---
-
-اگه موضوع بعدی رو آماده داری، فقط بفرست تا دیالوگ شماره 19 رو برات طراحی کنم! 📅🕕👥🍽️
-
-حتماً Davood! این هم دیالوگ شماره 19 با موضوع «وسایل نقلیه (اتوبوس، قطار، ماشین)» — مناسب سطح A1، با تمرکز بر صحبت درباره حمل‌ونقل، ترجیحات سفر و برنامه‌ریزی مسیر:
-
 ---
 
 # 🗣️ A1 Dialog 19 – Verkehrsmittel / Means of Transport / وسایل نقلیه (اتوبوس، قطار، ماشین)
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -1102,16 +1115,11 @@ A simple multilingual conversation for beginners (A1 level).
 - صحبت درباره عادت‌های سفر و برنامه‌ها
 
 ---
-
-اگه موضوع بعدی رو آماده داری، فقط بفرست تا دیالوگ شماره 20 رو برات طراحی کنم! 🚍🚆🚗🗺️
-
-حتماً Davood! این هم دیالوگ شماره 20 با موضوع «پرسیدن و دادن مسیر» — مناسب سطح A1، با تمرکز بر پرسیدن آدرس، توضیح مسیر و استفاده از اصطلاحات ساده جهت‌یابی:
-
 ---
 
 # 🗣️ A1 Dialog 20 – Nach dem Weg fragen / Asking for Directions / پرسیدن و دادن مسیر
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -1156,17 +1164,11 @@ A simple multilingual conversation for beginners (A1 level).
 - استفاده از اصطلاحات مکانی و زمانی
 
 ---
-
-اگه موضوع بعدی رو آماده داری، فقط بفرست تا دیالوگ شماره 21 رو برات طراحی کنم! 🧭🚶🗺️📍
-
-
-حتماً Davood! این هم دیالوگ شماره 21 با موضوع «خرید بلیت و سفر کوتاه» — مناسب سطح A1، با تمرکز بر پرسیدن قیمت بلیت، مقصد، زمان حرکت و نوع وسیله نقلیه:
-
 ---
 
 # 🗣️ A1 Dialog 21 – Fahrkarte kaufen und Kurzreise / Buying a Ticket and Short Trip / خرید بلیت و سفر کوتاه
 ---
-## 📋 Dialog – Gespräch zwischen zwei Personen
+
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
 |-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
@@ -1211,5 +1213,782 @@ A simple multilingual conversation for beginners (A1 level).
 - پرسیدن قیمت‌ها و نوع بلیت‌ها
 
 ---
+---
 
-اگه موضوع بعدی رو آماده داری، فقط بفرست تا دیالوگ شماره 22 رو برات طراحی کنم! 🚆🎫🕓🧳
+# 🗣️ A1 Dialog 2 – Öffentliche Orte / Public Places / مکان‌های عمومی
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                               | 🇬🇧 English                                               | 🇮🇷 فارسی                                                 |
+|-----------|-----------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
+| 1         | 🇩🇪 A      | Entschuldigung, wo ist die Bank?                         | Excuse me, where is the bank?                            | ببخشید، بانک کجاست؟                                     |
+| 2         | 🇮🇷 B      | Die Bank ist neben der Post.                             | The bank is next to the post office.                     | بانک کنار اداره‌ی پسته.                                 |
+| 3         | 🇩🇪 A      | Und wo ist die Apotheke?                                 | And where is the pharmacy?                               | و داروخانه کجاست؟                                       |
+| 4         | 🇮🇷 B      | Die Apotheke ist gegenüber dem Supermarkt.               | The pharmacy is across from the supermarket.             | داروخانه روبه‌روی سوپرمارکته.                           |
+| 5         | 🇩🇪 A      | Gibt es einen Supermarkt in der Nähe?                    | Is there a supermarket nearby?                           | این نزدیکی‌ها سوپرمارکت هست؟                           |
+| 6         | 🇮🇷 B      | Ja, der Supermarkt ist in der Hauptstraße.               | Yes, the supermarket is on the main street.              | بله، سوپرمارکت در خیابان اصلیه.                         |
+| 7         | 🇩🇪 A      | Vielen Dank für Ihre Hilfe!                              | Thank you very much for your help!                       | خیلی ممنون بابت کمکتون!                                 |
+| 8         | 🇮🇷 B      | Gern geschehen. Viel Erfolg!                             | You’re welcome. Good luck!                               | خواهش می‌کنم. موفق باشی!                                |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch       | 🇬🇧 English         | 🇮🇷 فارسی             |
+|------------------|--------------------|------------------------|
+| die Bank         | the bank           | بانک                   |
+| die Post         | the post office    | اداره‌ی پست           |
+| die Apotheke     | the pharmacy       | داروخانه               |
+| der Supermarkt   | the supermarket    | سوپرمارکت              |
+| die Hauptstraße  | the main street    | خیابان اصلی            |
+| neben            | next to            | کنار                   |
+| gegenüber        | across from        | روبه‌رو                |
+| in der Nähe      | nearby             | در نزدیکی              |
+| Entschuldigung   | Excuse me          | ببخشید                 |
+| Vielen Dank      | Thank you very much| خیلی ممنون             |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Nach dem Weg fragen und Orte beschreiben  
+- Asking for directions and describing places  
+- پرسیدن آدرس و توصیف مکان‌ها
+
+---
+---
+
+# 🗣️ A1 Dialog 3 – Orientierung in der Stadt / Finding Places in the City / گفت‌و‌گو درباره مکان‌ها
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                                   | 🇬🇧 English                                                   | 🇮🇷 فارسی                                                     |
+|-----------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| 1         | 🇩🇪 A      | Entschuldigung, können Sie mir helfen?                       | Excuse me, can you help me?                                  | ببخشید، می‌تونید کمکم کنید؟                                 |
+| 2         | 🇮🇷 B      | Ja, natürlich. Was suchen Sie?                               | Yes, of course. What are you looking for?                    | بله، حتماً. دنبال چی می‌گردید؟                              |
+| 3         | 🇩🇪 A      | Ich suche das Museum.                                        | I’m looking for the museum.                                  | من دنبال موزه می‌گردم.                                      |
+| 4         | 🇮🇷 B      | Das Museum ist in der Nähe vom Bahnhof.                      | The museum is near the train station.                        | موزه نزدیک ایستگاه قطاره.                                   |
+| 5         | 🇩🇪 A      | Wie komme ich dorthin?                                       | How do I get there?                                          | چطور برم اونجا؟                                              |
+| 6         | 🇮🇷 B      | Gehen Sie geradeaus und dann links.                         | Go straight ahead and then turn left.                        | مستقیم برید و بعد به چپ بپیچید.                             |
+| 7         | 🇩🇪 A      | Ist es weit von hier?                                        | Is it far from here?                                         | از اینجا دوره؟                                               |
+| 8         | 🇮🇷 B      | Nein, es sind nur fünf Minuten zu Fuß.                      | No, it’s only five minutes on foot.                          | نه، فقط پنج دقیقه پیاده‌رویه.                                |
+| 9         | 🇩🇪 A      | Gibt es ein Café in der Nähe?                               | Is there a café nearby?                                      | این نزدیکی‌ها کافه‌ای هست؟                                  |
+| 10        | 🇮🇷 B      | Ja, das Café ist gegenüber vom Museum.                      | Yes, the café is across from the museum.                     | بله، کافه روبه‌روی موزه‌ست.                                  |
+| 11        | 🇩🇪 A      | Und wo ist die Bibliothek?                                  | And where is the library?                                    | و کتابخانه کجاست؟                                           |
+| 12        | 🇮🇷 B      | Die Bibliothek ist neben dem Rathaus.                       | The library is next to the town hall.                        | کتابخانه کنار شهرداریه.                                     |
+| 13        | 🇩🇪 A      | Vielen Dank für die Informationen!                          | Thank you for the information!                               | ممنون بابت اطلاعاتتون!                                       |
+| 14        | 🇮🇷 B      | Gern geschehen. Viel Spaß in der Stadt!                     | You’re welcome. Have fun in the city!                        | خواهش می‌کنم. خوش بگذره توی شهر!                            |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch         | 🇬🇧 English           | 🇮🇷 فارسی               |
+|--------------------|----------------------|--------------------------|
+| das Museum         | the museum           | موزه                     |
+| der Bahnhof        | the train station    | ایستگاه قطار             |
+| das Café           | the café             | کافه                     |
+| die Bibliothek     | the library          | کتابخانه                 |
+| das Rathaus        | the town hall        | شهرداری                  |
+| geradeaus          | straight ahead       | مستقیم                   |
+| links              | left                 | چپ                       |
+| rechts             | right                | راست                     |
+| gegenüber          | across from          | روبه‌رو                  |
+| neben              | next to              | کنار                     |
+| in der Nähe        | nearby               | در نزدیکی                |
+| zu Fuß             | on foot              | پیاده                    |
+| Wie komme ich...?  | How do I get...?     | چطور برم ...؟            |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Nach dem Weg fragen und Orte in der Stadt beschreiben  
+- Asking for directions and describing places in the city  
+- پرسیدن مسیر و توصیف مکان‌ها در شهر
+
+---
+---
+
+# 🗣️ A1 Dialog 4 – Nach dem Weg fragen / Asking for Directions / پرسیدن آدرس
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                                   | 🇬🇧 English                                                   | 🇮🇷 فارسی                                                     |
+|-----------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| 1         | 🇩🇪 A      | Entschuldigung, wie komme ich zur U-Bahn-Station?            | Excuse me, how do I get to the subway station?              | ببخشید، چطور برم ایستگاه مترو؟                             |
+| 2         | 🇮🇷 B      | Gehen Sie geradeaus bis zur Ampel.                          | Go straight ahead until the traffic light.                  | مستقیم برید تا چراغ راهنمایی.                              |
+| 3         | 🇩🇪 A      | Und dann?                                                    | And then?                                                    | بعدش چی؟                                                    |
+| 4         | 🇮🇷 B      | Dann biegen Sie rechts ab und gehen Sie etwa 200 Meter.     | Then turn right and walk about 200 meters.                  | بعد به راست بپیچید و حدود ۲۰۰ متر برید.                    |
+| 5         | 🇩🇪 A      | Ist die Station auf der linken Seite?                       | Is the station on the left side?                            | ایستگاه سمت چپ هست؟                                         |
+| 6         | 🇮🇷 B      | Ja, direkt neben dem Supermarkt.                            | Yes, right next to the supermarket.                         | بله، درست کنار سوپرمارکت.                                  |
+| 7         | 🇩🇪 A      | Gibt es ein Schild oder ein Zeichen?                        | Is there a sign or a symbol?                                | تابلو یا علامتی هست؟                                        |
+| 8         | 🇮🇷 B      | Ja, ein blaues Schild mit „U-Bahn“.                         | Yes, a blue sign with “U-Bahn”.                             | بله، یه تابلو آبی با نوشته‌ی «U-Bahn».                     |
+| 9         | 🇩🇪 A      | Und wie komme ich zum Park?                                 | And how do I get to the park?                               | و چطور برم پارک؟                                            |
+| 10        | 🇮🇷 B      | Der Park ist gegenüber der U-Bahn-Station.                  | The park is across from the subway station.                 | پارک روبه‌روی ایستگاه متروئه.                               |
+| 11        | 🇩🇪 A      | Muss ich ein Ticket für die U-Bahn kaufen?                  | Do I need to buy a subway ticket?                           | باید برای مترو بلیط بخرم؟                                  |
+| 12        | 🇮🇷 B      | Ja, am Automaten neben dem Eingang.                         | Yes, at the machine next to the entrance.                   | بله، از دستگاه کنار ورودی.                                 |
+| 13        | 🇩🇪 A      | Vielen Dank für Ihre Hilfe!                                 | Thank you very much for your help!                          | خیلی ممنون بابت کمکتون!                                     |
+| 14        | 🇮🇷 B      | Gern geschehen. Viel Erfolg!                                | You’re welcome. Good luck!                                  | خواهش می‌کنم. موفق باشید!                                  |
+| 15        | 🇩🇪 A      | Einen schönen Tag noch!                                     | Have a nice day!                                            | روز خوبی داشته باشید!                                       |
+| 16        | 🇮🇷 B      | Ihnen auch!                                                 | You too!                                                    | همچنین شما!                                                 |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch           | 🇬🇧 English             | 🇮🇷 فارسی               |
+|----------------------|------------------------|--------------------------|
+| die U-Bahn-Station   | subway station         | ایستگاه مترو             |
+| geradeaus            | straight ahead         | مستقیم                   |
+| rechts               | right                  | راست                     |
+| links                | left                   | چپ                       |
+| die Ampel            | traffic light          | چراغ راهنمایی            |
+| das Schild           | sign                   | تابلو                    |
+| der Supermarkt       | supermarket            | سوپرمارکت                |
+| gegenüber            | across from            | روبه‌رو                  |
+| der Park             | park                   | پارک                     |
+| der Eingang          | entrance               | ورودی                    |
+| der Automat          | ticket machine         | دستگاه بلیط              |
+| Ticket kaufen        | to buy a ticket        | بلیط خریدن               |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Nach dem Weg fragen und Wegbeschreibungen verstehen  
+- Asking for directions and understanding route descriptions  
+- پرسیدن مسیر و درک توضیحات مربوط به آدرس
+
+---
+---
+
+# 🗣️ A1 Dialog 5 – Körperteile / Body Parts / اعضای بدن
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                                   | 🇬🇧 English                                                   | 🇮🇷 فارسی                                                     |
+|-----------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| 1         | 🇩🇪 A      | Hallo! Geht es dir gut?                                      | Hello! Are you okay?                                         | سلام! حالت خوبه؟                                             |
+| 2         | 🇮🇷 B      | Nein, ich habe Kopfschmerzen.                               | No, I have a headache.                                       | نه، سردرد دارم.                                              |
+| 3         | 🇩🇪 A      | Oh nein! Seit wann?                                          | Oh no! Since when?                                           | وای نه! از کی؟                                               |
+| 4         | 🇮🇷 B      | Seit gestern Abend.                                          | Since yesterday evening.                                     | از دیشب.                                                     |
+| 5         | 🇩🇪 A      | Hast du auch Fieber?                                         | Do you also have a fever?                                    | تب هم داری؟                                                  |
+| 6         | 🇮🇷 B      | Nein, aber mein Hals tut weh.                               | No, but my throat hurts.                                     | نه، ولی گلوم درد می‌کنه.                                     |
+| 7         | 🇩🇪 A      | Vielleicht ist es eine Erkältung.                           | Maybe it’s a cold.                                           | شاید سرما خوردگی باشه.                                       |
+| 8         | 🇮🇷 B      | Ja, und meine Nase ist auch zu.                             | Yes, and my nose is also blocked.                            | آره، و بینی‌ام هم گرفته.                                     |
+| 9         | 🇩🇪 A      | Hast du etwas gegen die Schmerzen genommen?                 | Did you take anything for the pain?                          | چیزی برای درد خوردی؟                                        |
+| 10        | 🇮🇷 B      | Ja, ich habe eine Tablette genommen.                        | Yes, I took a pill.                                          | بله، یه قرص خوردم.                                           |
+| 11        | 🇩🇪 A      | Ruh dich gut aus und trink viel Wasser.                     | Get some rest and drink plenty of water.                     | خوب استراحت کن و زیاد آب بخور.                              |
+| 12        | 🇮🇷 B      | Danke für den Tipp!                                          | Thanks for the tip!                                          | ممنون بابت راهنمایی!                                         |
+| 13        | 🇩🇪 A      | Tut dir auch der Rücken weh?                                | Does your back hurt too?                                     | کمرت هم درد می‌کنه؟                                          |
+| 14        | 🇮🇷 B      | Nein, nur der Kopf und der Hals.                            | No, just the head and the throat.                            | نه، فقط سر و گلو.                                            |
+| 15        | 🇩🇪 A      | Gute Besserung!                                              | Get well soon!                                               | زود خوب بشی!                                                 |
+| 16        | 🇮🇷 B      | Danke! Das ist sehr nett von dir.                           | Thank you! That’s very kind of you.                          | ممنون! خیلی لطف کردی.                                        |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch         | 🇬🇧 English         | 🇮🇷 فارسی               |
+|--------------------|--------------------|--------------------------|
+| der Kopf           | head               | سر                       |
+| der Hals           | throat/neck        | گلو / گردن              |
+| die Nase           | nose               | بینی                     |
+| der Rücken         | back               | کمر                      |
+| die Schmerzen      | pain                | درد                      |
+| die Tablette       | pill                | قرص                      |
+| Fieber             | fever               | تب                       |
+| Erkältung          | cold                | سرماخوردگی              |
+| sich ausruhen      | to rest             | استراحت کردن             |
+| Wasser trinken     | to drink water      | آب نوشیدن               |
+| Gute Besserung!    | Get well soon!      | زود خوب بشی!            |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Körperteile benennen und über Beschwerden sprechen  
+- Naming body parts and talking about symptoms  
+- نام بردن اعضای بدن و صحبت درباره‌ی علائم بیماری
+
+---
+---
+
+# 🗣️ A1 Dialog 6 – Gefühle und einfache Krankheiten / Feelings and Simple Illnesses / احساسات و بیماری‌های ساده
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                                   | 🇬🇧 English                                                   | 🇮🇷 فارسی                                                     |
+|-----------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| 1         | 🇩🇪 A      | Hallo! Du siehst müde aus.                                   | Hello! You look tired.                                       | سلام! خسته به نظر می‌رسی.                                   |
+| 2         | 🇮🇷 B      | Ja, ich bin sehr müde und habe Kopfschmerzen.               | Yes, I’m very tired and I have a headache.                   | آره، خیلی خسته‌ام و سردرد دارم.                             |
+| 3         | 🇩🇪 A      | Hast du genug geschlafen?                                   | Did you sleep enough?                                        | کافی خوابیدی؟                                               |
+| 4         | 🇮🇷 B      | Nein, ich konnte nicht gut schlafen.                        | No, I couldn’t sleep well.                                   | نه، خوب نتونستم بخوابم.                                     |
+| 5         | 🇩🇪 A      | Bist du auch erkältet?                                      | Are you also sick with a cold?                               | سرما خوردی هم؟                                               |
+| 6         | 🇮🇷 B      | Vielleicht. Ich habe Husten und meine Nase läuft.           | Maybe. I have a cough and a runny nose.                      | شاید. سرفه دارم و بینیم آب میاد.                            |
+| 7         | 🇩🇪 A      | Das klingt nicht gut.                                       | That doesn’t sound good.                                     | خوب به نظر نمی‌رسه.                                          |
+| 8         | 🇮🇷 B      | Ich fühle mich einfach schlecht.                            | I just feel bad.                                             | فقط حالم بده.                                                |
+| 9         | 🇩🇪 A      | Hast du Fieber?                                             | Do you have a fever?                                         | تب داری؟                                                     |
+| 10        | 🇮🇷 B      | Nein, aber ich bin sehr schwach.                            | No, but I’m very weak.                                       | نه، ولی خیلی ضعیفم.                                          |
+| 11        | 🇩🇪 A      | Vielleicht solltest du zum Arzt gehen.                      | Maybe you should go to the doctor.                           | شاید باید بری دکتر.                                          |
+| 12        | 🇮🇷 B      | Ja, ich denke auch.                                         | Yes, I think so too.                                         | آره، منم همین فکر رو می‌کنم.                                |
+| 13        | 🇩🇪 A      | Und wie fühlst du dich emotional?                          | And how do you feel emotionally?                             | از نظر احساسی چطوری؟                                         |
+| 14        | 🇮🇷 B      | Ich bin ein bisschen traurig und gestresst.                 | I’m a bit sad and stressed.                                  | یه کم ناراحتم و استرس دارم.                                  |
+| 15        | 🇩🇪 A      | Möchtest du darüber sprechen?                               | Would you like to talk about it?                             | دوست داری درباره‌ش صحبت کنی؟                                |
+| 16        | 🇮🇷 B      | Vielleicht später. Danke für dein Interesse.                | Maybe later. Thanks for your concern.                        | شاید بعداً. ممنون بابت توجهت.                               |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch         | 🇬🇧 English             | 🇮🇷 فارسی               |
+|--------------------|------------------------|--------------------------|
+| müde               | tired                  | خسته                    |
+| Kopfschmerzen      | headache               | سردرد                   |
+| schlafen           | to sleep               | خوابیدن                 |
+| erkältet           | sick with a cold       | سرماخورده               |
+| Husten             | cough                  | سرفه                    |
+| die Nase läuft     | runny nose             | آبریزش بینی             |
+| schlecht fühlen    | to feel bad            | حال بد داشتن            |
+| schwach            | weak                   | ضعیف                    |
+| traurig            | sad                    | ناراحت                  |
+| gestresst          | stressed               | استرس‌دار               |
+| Interesse zeigen   | to show concern        | توجه نشان دادن          |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Gefühle und einfache Krankheiten ausdrücken  
+- Expressing feelings and simple illnesses  
+- بیان احساسات و بیماری‌های ساده
+
+---
+---
+
+# 🗣️ A1 Dialog 7 – Beim Arzt / At the Doctor / رفتن به پزشک
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                                   | 🇬🇧 English                                                   | 🇮🇷 فارسی                                                     |
+|-----------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| 1         | 🇩🇪 A      | Guten Tag! Was fehlt Ihnen?                                  | Good day! What’s wrong with you?                             | روز بخیر! چه مشکلی دارید؟                                   |
+| 2         | 🇮🇷 B      | Ich habe starke Bauchschmerzen.                             | I have strong stomach pain.                                  | دل‌درد شدید دارم.                                            |
+| 3         | 🇩🇪 A      | Seit wann haben Sie die Schmerzen?                          | Since when do you have the pain?                             | از کی درد دارید؟                                             |
+| 4         | 🇮🇷 B      | Seit gestern Abend.                                          | Since yesterday evening.                                     | از دیشب.                                                     |
+| 5         | 🇩🇪 A      | Haben Sie auch Übelkeit oder Fieber?                        | Do you also have nausea or fever?                            | حالت تهوع یا تب هم دارید؟                                    |
+| 6         | 🇮🇷 B      | Ja, ich fühle mich sehr schwach und habe ein bisschen Fieber.| Yes, I feel very weak and have a little fever.              | بله، خیلی ضعیفم و کمی تب دارم.                               |
+| 7         | 🇩🇪 A      | Ich werde Sie untersuchen.                                  | I will examine you.                                          | معاینه‌تون می‌کنم.                                           |
+| 8         | 🇮🇷 B      | Okay, danke.                                                 | Okay, thank you.                                             | باشه، ممنون.                                                 |
+| 9         | 🇩🇪 A      | Der Bauch ist etwas hart.                                   | The stomach is a bit hard.                                   | شکم کمی سفت شده.                                             |
+| 10        | 🇮🇷 B      | Ist das schlimm?                                             | Is that serious?                                             | خطرناکه؟                                                     |
+| 11        | 🇩🇪 A      | Nein, wahrscheinlich ist es nur eine Magenverstimmung.      | No, it’s probably just an upset stomach.                     | نه، احتمالاً فقط ناراحتی معده‌ست.                            |
+| 12        | 🇮🇷 B      | Was soll ich machen?                                         | What should I do?                                            | چی‌کار باید بکنم؟                                            |
+| 13        | 🇩🇪 A      | Ruhen Sie sich aus und trinken Sie viel Wasser.             | Rest and drink plenty of water.                              | استراحت کنید و زیاد آب بنوشید.                              |
+| 14        | 🇮🇷 B      | Brauche ich Medikamente?                                     | Do I need medicine?                                          | دارو لازم دارم؟                                               |
+| 15        | 🇩🇪 A      | Ich verschreibe Ihnen Tabletten gegen die Schmerzen.         | I’ll prescribe you pills for the pain.                       | براتون قرص ضد درد تجویز می‌کنم.                             |
+| 16        | 🇮🇷 B      | Vielen Dank, Herr Doktor!                                    | Thank you very much, doctor!                                 | خیلی ممنون، آقای دکتر!                                       |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch             | 🇬🇧 English             | 🇮🇷 فارسی               |
+|------------------------|------------------------|--------------------------|
+| Bauchschmerzen         | stomach pain           | دل‌درد                   |
+| Übelkeit               | nausea                 | حالت تهوع                |
+| Fieber                 | fever                  | تب                       |
+| schwach                | weak                   | ضعیف                     |
+| untersuchen            | to examine             | معاینه کردن              |
+| Magenverstimmung       | upset stomach          | ناراحتی معده             |
+| sich ausruhen          | to rest                | استراحت کردن             |
+| Wasser trinken         | to drink water         | آب نوشیدن               |
+| Medikamente            | medicine               | دارو                     |
+| Tabletten              | pills                  | قرص                      |
+| verschreiben           | to prescribe           | تجویز کردن               |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Symptome beschreiben und einfache medizinische Gespräche führen  
+- Describing symptoms and having basic medical conversations  
+- توصیف علائم و انجام مکالمات ساده پزشکی
+
+---
+---
+
+# 🗣️ A1 Dialog 8 – Medikamente und Empfehlungen / Medicines and Advice / داروها و توصیه‌ها
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                                   | 🇬🇧 English                                                   | 🇮🇷 فارسی                                                     |
+|-----------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| 1         | 🇩🇪 A      | Guten Tag! Ich brauche etwas gegen Kopfschmerzen.            | Good day! I need something for a headache.                   | روز بخیر! یه چیزی برای سردرد می‌خوام.                      |
+| 2         | 🇮🇷 B      | Haben Sie starke oder leichte Schmerzen?                     | Do you have strong or mild pain?                             | دردتون شدید یا خفیفه؟                                       |
+| 3         | 🇩🇪 A      | Eher leicht, aber es stört mich.                             | Rather mild, but it bothers me.                              | بیشتر خفیفه، ولی اذیتم می‌کنه.                              |
+| 4         | 🇮🇷 B      | Dann empfehle ich Ihnen Paracetamol.                         | Then I recommend paracetamol.                                | پس پاراستامول پیشنهاد می‌کنم.                              |
+| 5         | 🇩🇪 A      | Wie oft soll ich die Tabletten nehmen?                       | How often should I take the pills?                           | چند وقت یه بار باید قرص‌ها رو بخورم؟                        |
+| 6         | 🇮🇷 B      | Alle sechs Stunden, aber nicht mehr als vier Tabletten am Tag.| Every six hours, but no more than four pills a day.         | هر شش ساعت، ولی بیشتر از چهار قرص در روز نه.               |
+| 7         | 🇩🇪 A      | Muss ich sie mit Wasser nehmen?                              | Do I have to take them with water?                           | باید با آب بخورمشون؟                                        |
+| 8         | 🇮🇷 B      | Ja, bitte mit viel Wasser.                                  | Yes, please with plenty of water.                            | بله، لطفاً با آب زیاد.                                      |
+| 9         | 🇩🇪 A      | Gibt es Nebenwirkungen?                                      | Are there any side effects?                                  | عوارض جانبی داره؟                                           |
+| 10        | 🇮🇷 B      | Vielleicht leichte Müdigkeit oder Übelkeit.                  | Maybe slight tiredness or nausea.                            | شاید کمی خستگی یا حالت تهوع.                                |
+| 11        | 🇩🇪 A      | Darf ich Auto fahren nach der Einnahme?                      | Can I drive after taking it?                                 | بعد از خوردنش می‌تونم رانندگی کنم؟                          |
+| 12        | 🇮🇷 B      | Ja, normalerweise ist das kein Problem.                      | Yes, normally that’s not a problem.                          | بله، معمولاً مشکلی نیست.                                    |
+| 13        | 🇩🇪 A      | Soll ich auch etwas essen davor?                             | Should I eat something before?                               | قبلش باید چیزی بخورم؟                                       |
+| 14        | 🇮🇷 B      | Ja, am besten nach dem Essen nehmen.                         | Yes, best to take it after eating.                           | بله، بهتره بعد از غذا بخورید.                               |
+| 15        | 🇩🇪 A      | Vielen Dank für Ihre Hilfe!                                  | Thank you very much for your help!                           | خیلی ممنون بابت کمکتون!                                     |
+| 16        | 🇮🇷 B      | Gern geschehen. Gute Besserung!                              | You’re welcome. Get well soon!                               | خواهش می‌کنم. زود خوب بشید!                                 |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch             | 🇬🇧 English             | 🇮🇷 فارسی               |
+|------------------------|------------------------|--------------------------|
+| die Tablette           | pill                   | قرص                      |
+| Paracetamol            | paracetamol            | پاراستامول              |
+| Kopfschmerzen          | headache               | سردرد                   |
+| leicht / stark         | mild / strong          | خفیف / شدید             |
+| alle sechs Stunden     | every six hours        | هر شش ساعت              |
+| Nebenwirkungen         | side effects           | عوارض جانبی             |
+| Müdigkeit              | tiredness              | خستگی                   |
+| Übelkeit               | nausea                 | حالت تهوع                |
+| Einnahme               | intake (of medicine)   | مصرف دارو               |
+| nach dem Essen         | after eating           | بعد از غذا              |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Medikamente verstehen und einfache Empfehlungen befolgen  
+- Understanding medicines and following basic advice  
+- درک اطلاعات دارویی و دنبال کردن توصیه‌های ساده
+
+---
+---
+
+# 🗣️ A1 Dialog 10 – Im Klassenzimmer und Lernmaterialien / In the Classroom and Learning Materials / کلاس درس و وسایل آموزشی
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                                   | 🇬🇧 English                                                   | 🇮🇷 فارسی                                                     |
+|-----------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| 1         | 🇩🇪 A      | Guten Morgen! Kann ich mich hier setzen?                     | Good morning! Can I sit here?                                | صبح بخیر! می‌تونم اینجا بشینم؟                              |
+| 2         | 🇮🇷 B      | Ja, natürlich. Das ist frei.                                | Yes, of course. It’s free.                                   | بله، حتماً. اینجا خالیه.                                     |
+| 3         | 🇩🇪 A      | Hast du dein Buch dabei?                                     | Do you have your book with you?                              | کتابت رو آوردی؟                                              |
+| 4         | 🇮🇷 B      | Ja, ich habe mein Deutschbuch und mein Heft.                | Yes, I have my German book and my notebook.                  | آره، کتاب آلمانی و دفترم رو دارم.                           |
+| 5         | 🇩🇪 A      | Ich habe mein Heft vergessen.                               | I forgot my notebook.                                        | دفترم رو فراموش کردم.                                        |
+| 6         | 🇮🇷 B      | Kein Problem. Du kannst mein Heft benutzen.                 | No problem. You can use my notebook.                         | مشکلی نیست. می‌تونی از دفتر من استفاده کنی.                |
+| 7         | 🇩🇪 A      | Danke! Hast du auch einen Bleistift?                        | Thanks! Do you also have a pencil?                           | ممنون! مداد هم داری؟                                         |
+| 8         | 🇮🇷 B      | Ja, hier ist einer.                                         | Yes, here is one.                                            | آره، اینم یه دونه.                                           |
+| 9         | 🇩🇪 A      | Was machen wir heute im Unterricht?                         | What are we doing today in class?                            | امروز توی کلاس چی کار می‌کنیم؟                              |
+| 10        | 🇮🇷 B      | Wir lernen neue Wörter und machen eine Übung.              | We’re learning new words and doing an exercise.              | کلمات جدید یاد می‌گیریم و یه تمرین انجام می‌دیم.            |
+| 11        | 🇩🇪 A      | Brauchen wir ein Wörterbuch?                                | Do we need a dictionary?                                     | دیکشنری لازم داریم؟                                          |
+| 12        | 🇮🇷 B      | Nein, aber ein Kuli wäre gut.                              | No, but a pen would be good.                                 | نه، ولی یه خودکار خوبه.                                     |
+| 13        | 🇩🇪 A      | Ich habe einen roten Kuli.                                  | I have a red pen.                                            | یه خودکار قرمز دارم.                                         |
+| 14        | 🇮🇷 B      | Super! Damit können wir die Fehler markieren.               | Great! We can mark the mistakes with it.                     | عالیه! باهاش می‌تونیم اشتباه‌ها رو علامت بزنیم.             |
+| 15        | 🇩🇪 A      | Wo ist die Tafel?                                           | Where is the board?                                          | تخته کجاست؟                                                  |
+| 16        | 🇮🇷 B      | Vorne, neben dem Fenster.                                   | In front, next to the window.                                | جلو، کنار پنجره‌ست.                                          |
+| 17        | 🇩🇪 A      | Ich sehe sie jetzt. Danke!                                  | I see it now. Thanks!                                        | الان می‌بینمش. ممنون!                                       |
+| 18        | 🇮🇷 B      | Gern geschehen. Viel Spaß beim Lernen!                      | You’re welcome. Have fun learning!                           | خواهش می‌کنم. از یادگیری لذت ببر!                           |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch         | 🇬🇧 English             | 🇮🇷 فارسی               |
+|--------------------|------------------------|--------------------------|
+| das Buch           | book                   | کتاب                    |
+| das Heft           | notebook               | دفتر                    |
+| der Bleistift      | pencil                 | مداد                    |
+| der Kuli           | pen                    | خودکار                  |
+| das Wörterbuch     | dictionary             | دیکشنری                 |
+| die Tafel          | board                  | تخته                    |
+| das Fenster        | window                 | پنجره                   |
+| markieren          | to mark                | علامت زدن               |
+| Fehler             | mistake                | اشتباه                  |
+| Übung              | exercise               | تمرین                   |
+| lernen             | to learn               | یاد گرفتن               |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Gegenstände im Klassenzimmer benennen und einfache Gespräche führen  
+- Naming classroom items and having basic conversations  
+- نام بردن وسایل آموزشی و انجام مکالمات ساده در کلاس
+
+---
+---
+
+# 🗣️ A1 Dialog 11 – Sprachen und Lernen / Languages and Learning / زبان‌ها و یادگیری
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                                   | 🇬🇧 English                                                   | 🇮🇷 فارسی                                                     |
+|-----------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| 1         | 🇩🇪 A      | Welche Sprachen sprichst du?                                 | Which languages do you speak?                                | چه زبان‌هایی صحبت می‌کنی؟                                   |
+| 2         | 🇮🇷 B      | Ich spreche Persisch und ein bisschen Deutsch.               | I speak Persian and a little German.                         | فارسی صحبت می‌کنم و یه کم آلمانی.                           |
+| 3         | 🇩🇪 A      | Lernst du Deutsch in der Schule?                             | Do you learn German at school?                               | آلمانی رو توی مدرسه یاد می‌گیری؟                            |
+| 4         | 🇮🇷 B      | Ja, und ich mache auch Online-Kurse.                         | Yes, and I also take online courses.                         | آره، و کلاس‌های آنلاین هم می‌رم.                            |
+| 5         | 🇩🇪 A      | Ich lerne Englisch mit einer App.                            | I learn English with an app.                                 | من با یه اپلیکیشن انگلیسی یاد می‌گیرم.                      |
+| 6         | 🇮🇷 B      | Welche App benutzt du?                                       | Which app do you use?                                        | از چه اپی استفاده می‌کنی؟                                    |
+| 7         | 🇩🇪 A      | Ich benutze Duolingo. Es macht Spaß!                         | I use Duolingo. It’s fun!                                    | از دولینگو استفاده می‌کنم. خیلی باحاله!                     |
+| 8         | 🇮🇷 B      | Ich kenne das. Ich mag die Übungen.                          | I know it. I like the exercises.                             | می‌شناسمش. تمرین‌هاش رو دوست دارم.                          |
+| 9         | 🇩🇪 A      | Warum lernst du Deutsch?                                     | Why are you learning German?                                 | چرا آلمانی یاد می‌گیری؟                                     |
+| 10        | 🇮🇷 B      | Ich möchte in Deutschland studieren.                         | I want to study in Germany.                                  | می‌خوام توی آلمان درس بخونم.                                |
+| 11        | 🇩🇪 A      | Das ist ein gutes Ziel!                                      | That’s a good goal!                                          | هدف خوبی هست!                                                |
+| 12        | 🇮🇷 B      | Und du? Warum lernst du Englisch?                            | And you? Why are you learning English?                       | و تو؟ چرا انگلیسی یاد می‌گیری؟                              |
+| 13        | 🇩🇪 A      | Ich will reisen und mit Leuten sprechen.                     | I want to travel and talk to people.                         | می‌خوام سفر کنم و با مردم صحبت کنم.                         |
+| 14        | 🇮🇷 B      | Sprachen öffnen Türen.                                       | Languages open doors.                                        | زبان‌ها درها رو باز می‌کنن.                                 |
+| 15        | 🇩🇪 A      | Ja, und man lernt viel über andere Kulturen.                 | Yes, and you learn a lot about other cultures.               | آره، و آدم چیزهای زیادی درباره‌ی فرهنگ‌های دیگه یاد می‌گیره. |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch         | 🇬🇧 English             | 🇮🇷 فارسی               |
+|--------------------|------------------------|--------------------------|
+| die Sprache         | language               | زبان                    |
+| lernen              | to learn               | یاد گرفتن               |
+| sprechen            | to speak               | صحبت کردن               |
+| die Schule          | school                 | مدرسه                   |
+| der Kurs            | course                 | دوره                    |
+| die App             | app                    | اپلیکیشن                |
+| das Ziel            | goal                   | هدف                     |
+| reisen              | to travel              | سفر کردن                |
+| die Kultur          | culture                | فرهنگ                   |
+| öffnen              | to open                | باز کردن                |
+| Tür (die Tür)       | door                   | در                      |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Über Sprachen und Lernmethoden sprechen  
+- Talking about languages and learning methods  
+- صحبت درباره‌ی زبان‌ها و روش‌های یادگیری
+
+---
+---
+
+# 🗣️ A1 Dialog 12 – Einfache Lernaktivitäten / Simple Learning Activities / فعالیت‌های آموزشی ساده
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                                   | 🇬🇧 English                                                   | 🇮🇷 فارسی                                                     |
+|-----------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| 1         | 🇩🇪 A      | Was machst du heute zum Lernen?                              | What are you doing today for learning?                       | امروز برای یادگیری چی کار می‌کنی؟                            |
+| 2         | 🇮🇷 B      | Ich lese einen Text auf Deutsch.                             | I’m reading a text in German.                                | یه متن آلمانی می‌خونم.                                      |
+| 3         | 🇩🇪 A      | Ich höre einen Podcast.                                      | I’m listening to a podcast.                                  | من دارم یه پادکست گوش می‌دم.                                |
+| 4         | 🇮🇷 B      | Schreibst du auch etwas?                                     | Are you writing something too?                               | چیزی هم می‌نویسی؟                                            |
+| 5         | 🇩🇪 A      | Ja, ich schreibe neue Wörter in mein Heft.                   | Yes, I’m writing new words in my notebook.                   | آره، کلمات جدید رو توی دفترم می‌نویسم.                      |
+| 6         | 🇮🇷 B      | Ich mache eine Übung mit Verben.                            | I’m doing an exercise with verbs.                            | یه تمرین با افعال انجام می‌دم.                              |
+| 7         | 🇩🇪 A      | Lernst du auch Grammatik?                                    | Are you also learning grammar?                               | گرامر هم یاد می‌گیری؟                                       |
+| 8         | 🇮🇷 B      | Ein bisschen. Ich wiederhole die Regeln.                     | A little. I’m reviewing the rules.                           | یه کم. دارم قواعد رو مرور می‌کنم.                           |
+| 9         | 🇩🇪 A      | Ich mache ein Quiz online.                                   | I’m doing a quiz online.                                     | یه آزمون آنلاین انجام می‌دم.                                |
+| 10        | 🇮🇷 B      | Das ist eine gute Idee!                                      | That’s a good idea!                                          | فکر خوبیه!                                                   |
+| 11        | 🇩🇪 A      | Lernen macht Spaß, oder?                                     | Learning is fun, right?                                      | یادگیری باحاله، نه؟                                          |
+| 12        | 🇮🇷 B      | Ja, besonders mit Freunden.                                  | Yes, especially with friends.                                | آره، مخصوصاً با دوستا.                                       |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch         | 🇬🇧 English             | 🇮🇷 فارسی               |
+|--------------------|------------------------|--------------------------|
+| lesen              | to read                | خواندن                  |
+| hören              | to listen              | گوش دادن                |
+| schreiben          | to write               | نوشتن                   |
+| wiederholen        | to review/repeat       | مرور کردن               |
+| lernen             | to learn               | یاد گرفتن               |
+| die Übung          | exercise               | تمرین                   |
+| das Heft           | notebook               | دفتر                    |
+| das Quiz           | quiz                   | آزمون                   |
+| die Grammatik      | grammar                | گرامر                   |
+| der Podcast        | podcast                | پادکست                  |
+| die Regel          | rule                   | قاعده                   |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Über einfache Lernaktivitäten sprechen  
+- Talking about simple learning activities  
+- صحبت درباره‌ی فعالیت‌های آموزشی ساده
+
+---
+---
+
+# 🗣️ A1 Dialog 13 – Geburtstag und Einladungen / Birthday and Invitations / تولد و دعوت‌ها
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                                   | 🇬🇧 English                                                   | 🇮🇷 فارسی                                                     |
+|-----------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| 1         | 🇩🇪 A      | Hast du am Samstag Zeit?                                     | Do you have time on Saturday?                                | شنبه وقت داری؟                                               |
+| 2         | 🇮🇷 B      | Ja, warum?                                                   | Yes, why?                                                    | آره، چرا؟                                                    |
+| 3         | 🇩🇪 A      | Ich habe Geburtstag und mache eine kleine Feier.             | It’s my birthday and I’m having a small party.               | تولدمه و یه جشن کوچیک می‌گیرم.                              |
+| 4         | 🇮🇷 B      | Herzlichen Glückwunsch!                                      | Congratulations!                                             | تولدت مبارک!                                                 |
+| 5         | 🇩🇪 A      | Danke! Möchtest du kommen?                                   | Thanks! Would you like to come?                              | ممنون! دوست داری بیای؟                                       |
+| 6         | 🇮🇷 B      | Sehr gern! Wann beginnt die Feier?                           | I’d love to! When does the party start?                      | با کمال میل! جشن چه ساعتی شروع می‌شه؟                       |
+| 7         | 🇩🇪 A      | Um 18 Uhr bei mir zu Hause.                                  | At 6 p.m. at my place.                                       | ساعت ۶ عصر، خونه‌ی من.                                       |
+| 8         | 🇮🇷 B      | Soll ich etwas mitbringen?                                   | Should I bring something?                                    | چیزی بیارم؟                                                  |
+| 9         | 🇩🇪 A      | Nein, nur gute Laune!                                        | No, just good mood!                                          | نه، فقط حال خوب بیار!                                        |
+| 10        | 🇮🇷 B      | Ich freue mich schon.                                        | I’m looking forward to it.                                   | از الان خوشحالم.                                             |
+| 11        | 🇩🇪 A      | Ich lade auch Anna und Tom ein.                              | I’m also inviting Anna and Tom.                              | آنا و تام رو هم دعوت می‌کنم.                                |
+| 12        | 🇮🇷 B      | Super, das wird bestimmt lustig!                             | Great, it will surely be fun!                                | عالیه، حتماً خیلی خوش می‌گذره!                              |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch         | 🇬🇧 English             | 🇮🇷 فارسی               |
+|--------------------|------------------------|--------------------------|
+| der Geburtstag      | birthday               | تولد                    |
+| die Feier           | party/celebration      | جشن                     |
+| einladen            | to invite              | دعوت کردن               |
+| Glückwunsch         | congratulations        | تبریک                   |
+| Zeit haben          | to have time           | وقت داشتن               |
+| mitbringen          | to bring (with)        | همراه آوردن             |
+| gute Laune          | good mood              | حال خوب                 |
+| sich freuen         | to look forward        | خوشحال بودن / منتظر بودن |
+| lustig              | fun / funny            | خوش‌گذرا / بامزه         |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Über Geburtstage, Einladungen und Glückwünsche sprechen  
+- Talking about birthdays, invitations, and congratulations  
+- صحبت درباره‌ی تولد، دعوت کردن و تبریک گفتن
+
+---
+---
+
+# 🗣️ A1 Dialog 14 – Reise oder Party planen / Planning a Trip or Party / برنامه‌ریزی برای سفر یا مهمانی
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                                   | 🇬🇧 English                                                   | 🇮🇷 فارسی                                                     |
+|-----------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| 1         | 🇩🇪 A      | Wollen wir am Wochenende etwas machen?                        | Shall we do something on the weekend?                        | آخر هفته یه کاری بکنیم؟                                     |
+| 2         | 🇮🇷 B      | Ja, hast du eine Idee?                                       | Yes, do you have an idea?                                    | آره، پیشنهادی داری؟                                          |
+| 3         | 🇩🇪 A      | Wir könnten einen Ausflug machen.                            | We could go on a trip.                                       | می‌تونیم یه گردش بریم.                                      |
+| 4         | 🇮🇷 B      | Wohin wollen wir fahren?                                     | Where do we want to go?                                      | کجا بریم؟                                                    |
+| 5         | 🇩🇪 A      | Vielleicht zum See oder in den Park.                         | Maybe to the lake or to the park.                            | شاید بریم دریاچه یا پارک.                                   |
+| 6         | 🇮🇷 B      | Gute Idee! Sollen wir ein Picknick machen?                   | Good idea! Shall we have a picnic?                           | فکر خوبیه! پیک‌نیک بریم؟                                    |
+| 7         | 🇩🇪 A      | Ja, ich bringe Obst und Getränke mit.                        | Yes, I’ll bring fruit and drinks.                            | آره، من میوه و نوشیدنی میارم.                               |
+| 8         | 🇮🇷 B      | Ich nehme Sandwiches und eine Decke.                         | I’ll take sandwiches and a blanket.                          | من ساندویچ و یه پتو می‌برم.                                 |
+| 9         | 🇩🇪 A      | Wann treffen wir uns?                                        | When do we meet?                                             | کی همدیگه رو ببینیم؟                                         |
+| 10        | 🇮🇷 B      | Um 10 Uhr am Bahnhof.                                        | At 10 o’clock at the station.                                | ساعت ۱۰ جلوی ایستگاه.                                       |
+| 11        | 🇩🇪 A      | Perfekt! Ich freue mich schon.                              | Perfect! I’m looking forward to it.                          | عالیه! از الان خوشحالم.                                     |
+| 12        | 🇮🇷 B      | Ich auch. Das wird schön!                                   | Me too. It will be nice!                                     | منم همین‌طور. خیلی خوش می‌گذره!                             |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch         | 🇬🇧 English             | 🇮🇷 فارسی               |
+|--------------------|------------------------|--------------------------|
+| planen              | to plan                | برنامه‌ریزی کردن         |
+| das Wochenende      | weekend                | آخر هفته                 |
+| der Ausflug         | trip / excursion       | گردش                     |
+| der See             | lake                   | دریاچه                   |
+| der Park            | park                   | پارک                     |
+| das Picknick        | picnic                 | پیک‌نیک                  |
+| mitbringen          | to bring (with)        | همراه آوردن             |
+| die Decke           | blanket                | پتو                      |
+| das Obst            | fruit                  | میوه                     |
+| das Getränk         | drink                  | نوشیدنی                  |
+| treffen             | to meet                | ملاقات کردن              |
+| der Bahnhof         | train station          | ایستگاه قطار             |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Eine einfache Reise oder Party planen  
+- Planning a simple trip or party  
+- برنامه‌ریزی برای یک سفر یا مهمانی ساده
+
+---
+---
+
+# 🗣️ A1 Dialog 15 – Telefonieren / Making a Phone Call / تلفن زدن
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+## 📋 Dialog – Telefongespräch zwischen zwei Personen
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                                   | 🇬🇧 English                                                   | 🇮🇷 فارسی                                                     |
+|-----------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| 1         | 🇩🇪 A      | Hallo, hier spricht Ali.                                     | Hello, this is Ali speaking.                                 | سلام، علی هستم.                                              |
+| 2         | 🇮🇷 B      | Hallo Ali! Wie geht’s dir?                                   | Hello Ali! How are you?                                      | سلام علی! حالت چطوره؟                                       |
+| 3         | 🇩🇪 A      | Gut, danke. Ich wollte fragen, ob du morgen Zeit hast.       | Good, thanks. I wanted to ask if you have time tomorrow.     | خوبم، ممنون. می‌خواستم بپرسم فردا وقت داری؟                |
+| 4         | 🇮🇷 B      | Ja, am Nachmittag bin ich frei.                             | Yes, I’m free in the afternoon.                              | آره، بعدازظهر آزادم.                                        |
+| 5         | 🇩🇪 A      | Super! Wollen wir uns im Café treffen?                       | Great! Shall we meet at the café?                            | عالیه! بریم کافه همدیگه رو ببینیم؟                          |
+| 6         | 🇮🇷 B      | Ja, gerne. Um wie viel Uhr?                                 | Yes, gladly. What time?                                      | آره، با کمال میل. چه ساعتی؟                                 |
+| 7         | 🇩🇪 A      | Um 15 Uhr vor dem Café Rosa.                                | At 3 p.m. in front of Café Rosa.                             | ساعت ۳ جلوی کافه‌ی رزا.                                     |
+| 8         | 🇮🇷 B      | Perfekt, ich bin pünktlich da.                              | Perfect, I’ll be there on time.                              | عالیه، سر وقت میام.                                         |
+| 9         | 🇩🇪 A      | Soll ich etwas mitbringen?                                  | Should I bring something?                                    | چیزی بیارم؟                                                  |
+| 10        | 🇮🇷 B      | Nein, nur gute Laune!                                       | No, just good mood!                                          | نه، فقط حال خوب بیار!                                        |
+| 11        | 🇩🇪 A      | Okay, bis morgen!                                            | Okay, see you tomorrow!                                      | باشه، تا فردا!                                               |
+| 12        | 🇮🇷 B      | Bis dann, Ali!                                               | See you then, Ali!                                           | تا بعد، علی!                                                 |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch         | 🇬🇧 English             | 🇮🇷 فارسی               |
+|--------------------|------------------------|--------------------------|
+| telefonieren        | to make a phone call   | تلفن زدن                |
+| sprechen            | to speak               | صحبت کردن               |
+| fragen              | to ask                 | سؤال پرسیدن             |
+| treffen             | to meet                | ملاقات کردن              |
+| das Café            | café                   | کافه                    |
+| pünktlich           | on time                | سر وقت                  |
+| frei sein           | to be free             | آزاد بودن               |
+| gute Laune          | good mood              | حال خوب                 |
+| bis morgen          | see you tomorrow       | تا فردا                 |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Einfache Telefongespräche führen und Termine vereinbaren  
+- Making simple phone calls and arranging meetings  
+- انجام مکالمه تلفنی ساده و هماهنگ کردن قرار
+
+---
+---
+
+# 🗣️ A1 Dialog 16 – Eine Nachricht oder E-Mail schreiben / Writing a Message or Email / نوشتن ایمیل یا پیام کوتاه
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+## 📋 Dialog – Nachrichtenaustausch zwischen zwei Personen
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                                   | 🇬🇧 English                                                   | 🇮🇷 فارسی                                                     |
+|-----------|-----------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| 1         | 🇩🇪 A      | Hallo Sara, wie geht’s dir?                                  | Hi Sara, how are you?                                        | سلام سارا، حالت چطوره؟                                      |
+| 2         | 🇮🇷 B      | Hallo! Mir geht’s gut, danke. Und dir?                       | Hi! I’m fine, thanks. And you?                               | سلام! خوبم، ممنون. تو چطوری؟                                |
+| 3         | 🇩🇪 A      | Ich wollte fragen, ob du morgen Zeit hast.                   | I wanted to ask if you have time tomorrow.                   | می‌خواستم بپرسم فردا وقت داری؟                              |
+| 4         | 🇮🇷 B      | Ja, am Nachmittag bin ich frei.                             | Yes, I’m free in the afternoon.                              | آره، بعدازظهر آزادم.                                        |
+| 5         | 🇩🇪 A      | Super! Wollen wir zusammen lernen?                          | Great! Shall we study together?                              | عالیه! با هم درس بخونیم؟                                    |
+| 6         | 🇮🇷 B      | Ja, gerne. Wo treffen wir uns?                              | Yes, gladly. Where shall we meet?                            | آره، با کمال میل. کجا همدیگه رو ببینیم؟                     |
+| 7         | 🇩🇪 A      | Bei mir zu Hause um 15 Uhr?                                 | At my place at 3 p.m.?                                       | خونه‌ی من، ساعت ۳؟                                           |
+| 8         | 🇮🇷 B      | Perfekt. Soll ich etwas mitbringen?                         | Perfect. Should I bring something?                           | عالیه. چیزی بیارم؟                                           |
+| 9         | 🇩🇪 A      | Vielleicht dein Buch und ein Heft.                          | Maybe your book and a notebook.                              | شاید کتابت و یه دفتر.                                       |
+| 10        | 🇮🇷 B      | Okay, ich schreibe dir morgen früh nochmal.                 | Okay, I’ll message you again tomorrow morning.               | باشه، فردا صبح دوباره بهت پیام می‌دم.                       |
+| 11        | 🇩🇪 A      | Danke! Ich freue mich.                                      | Thanks! I’m looking forward to it.                           | ممنون! منتظرشم.                                              |
+| 12        | 🇮🇷 B      | Bis morgen!                                                 | See you tomorrow!                                            | تا فردا!                                                     |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch         | 🇬🇧 English             | 🇮🇷 فارسی               |
+|--------------------|------------------------|--------------------------|
+| schreiben           | to write               | نوشتن                   |
+| die Nachricht       | message                | پیام                    |
+| die E-Mail          | email                  | ایمیل                   |
+| fragen              | to ask                 | سؤال پرسیدن             |
+| lernen              | to study               | درس خواندن              |
+| treffen             | to meet                | ملاقات کردن              |
+| mitbringen          | to bring               | همراه آوردن             |
+| das Buch            | book                   | کتاب                    |
+| das Heft            | notebook               | دفتر                    |
+| sich freuen         | to look forward        | خوشحال بودن / منتظر بودن |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Eine einfache Nachricht oder E-Mail schreiben und beantworten  
+- Writing and replying to a simple message or email  
+- نوشتن و پاسخ دادن به پیام یا ایمیل ساده
+
