@@ -1215,7 +1215,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 2 – Öffentliche Orte / Public Places / مکان‌های عمومی
+# 🗣️ A1 Dialog 22 – Öffentliche Orte / Public Places / مکان‌های عمومی
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -1264,7 +1264,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 3 – Orientierung in der Stadt / Finding Places in the City / گفت‌و‌گو درباره مکان‌ها
+# 🗣️ A1 Dialog 23 – Orientierung in der Stadt / Finding Places in the City / گفت‌و‌گو درباره مکان‌ها
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -1322,7 +1322,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 4 – Nach dem Weg fragen / Asking for Directions / پرسیدن آدرس
+# 🗣️ A1 Dialog 24 – Nach dem Weg fragen / Asking for Directions / پرسیدن آدرس
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -1381,7 +1381,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 5 – Körperteile / Body Parts / اعضای بدن
+# 🗣️ A1 Dialog 25 – Körperteile / Body Parts / اعضای بدن
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -1439,7 +1439,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 6 – Gefühle und einfache Krankheiten / Feelings and Simple Illnesses / احساسات و بیماری‌های ساده
+# 🗣️ A1 Dialog 26 – Gefühle und einfache Krankheiten / Feelings and Simple Illnesses / احساسات و بیماری‌های ساده
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -1497,7 +1497,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 7 – Beim Arzt / At the Doctor / رفتن به پزشک
+# 🗣️ A1 Dialog 27 – Beim Arzt / At the Doctor / رفتن به پزشک
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -1555,7 +1555,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 8 – Medikamente und Empfehlungen / Medicines and Advice / داروها و توصیه‌ها
+# 🗣️ A1 Dialog 28 – Medikamente und Empfehlungen / Medicines and Advice / داروها و توصیه‌ها
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -1612,7 +1612,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 10 – Im Klassenzimmer und Lernmaterialien / In the Classroom and Learning Materials / کلاس درس و وسایل آموزشی
+# 🗣️ A1 Dialog 29 – Im Klassenzimmer und Lernmaterialien / In the Classroom and Learning Materials / کلاس درس و وسایل آموزشی
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -1672,7 +1672,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 11 – Sprachen und Lernen / Languages and Learning / زبان‌ها و یادگیری
+# 🗣️ A1 Dialog 30 – Sprachen und Lernen / Languages and Learning / زبان‌ها و یادگیری
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -1729,7 +1729,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 12 – Einfache Lernaktivitäten / Simple Learning Activities / فعالیت‌های آموزشی ساده
+# 🗣️ A1 Dialog 31 – Einfache Lernaktivitäten / Simple Learning Activities / فعالیت‌های آموزشی ساده
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -1783,7 +1783,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 13 – Geburtstag und Einladungen / Birthday and Invitations / تولد و دعوت‌ها
+# 🗣️ A1 Dialog 32 – Geburtstag und Einladungen / Birthday and Invitations / تولد و دعوت‌ها
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -1835,7 +1835,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 14 – Reise oder Party planen / Planning a Trip or Party / برنامه‌ریزی برای سفر یا مهمانی
+# 🗣️ A1 Dialog 33 – Reise oder Party planen / Planning a Trip or Party / برنامه‌ریزی برای سفر یا مهمانی
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -1890,7 +1890,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 15 – Telefonieren / Making a Phone Call / تلفن زدن
+# 🗣️ A1 Dialog 34 – Telefonieren / Making a Phone Call / تلفن زدن
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
@@ -1942,7 +1942,7 @@ A simple multilingual conversation for beginners (A1 level).
 ---
 ---
 
-# 🗣️ A1 Dialog 16 – Eine Nachricht oder E-Mail schreiben / Writing a Message or Email / نوشتن ایمیل یا پیام کوتاه
+# 🗣️ A1 Dialog 35 – Eine Nachricht oder E-Mail schreiben / Writing a Message or Email / نوشتن ایمیل یا پیام کوتاه
 
 Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
 A simple multilingual conversation for beginners (A1 level).  
