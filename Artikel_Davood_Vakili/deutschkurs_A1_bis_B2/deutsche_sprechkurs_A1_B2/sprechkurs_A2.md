@@ -2861,7 +2861,7 @@ Four thematic multilingual conversations for A2-level learners
 ---
 ---
 
-## 🎉 Dialog 45 – جشن‌ها و مناسبت‌ها / Festivals and Celebrations / Feste und Feiertage
+## 🎉 Dialog 45 – جشن‌ها و مناسبت‌ها / Festivals and Celebrations / Feste und Feiertage 
 
 | 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                  | 🇬🇧 English                                  | 🇮🇷 فارسی                                  |
 |-----------|-----------|---------------------------------------------|---------------------------------------------|-------------------------------------------|
