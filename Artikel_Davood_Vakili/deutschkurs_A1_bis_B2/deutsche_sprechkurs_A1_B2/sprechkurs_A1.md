@@ -75,13 +75,64 @@
 
 | 👤 Person | 🇩🇪 Deutsch                                             | 🇬🇧 English                                             | 🇮🇷 فارسی                                               |
 |----------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-| A        | Hallo! Wie heißt du?                                   | Hello! What’s your name?                               | سلام! اسم تو چیه؟                                     |
-| B        | Ich heiße Sara. Und du?                                | My name is Sara. And you?                              | من سارا هستم. و تو؟                                   |
-| A        | Ich bin Lukas. Wie alt bist du?                        | I’m Lukas. How old are you?                            | من لوکاس هستم. چند سالته؟                            |
-| B        | Ich bin 25 Jahre alt.                                  | I’m 25 years old.                                      | من ۲۵ سالمه.                                          |
-| A        | Woher kommst du?                                       | Where are you from?                                    | اهل کجایی؟                                            |
-| B        | Ich komme aus dem Iran. Und du?                        | I’m from Iran. And you?                                | من اهل ایرانم. و تو؟                                 |
-| A        | Ich komme aus Deutschland.                             | I’m from Germany.                                      | من اهل آلمانم.                                        |
-| B        | Welche Sprachen sprichst du?                           | What languages do you speak?                           | چه زبان‌هایی صحبت می‌کنی؟                           |
-| A        | Ich spreche Deutsch und ein bisschen Englisch. Und du? | I speak German and a little English. And you?          | من آلمانی و کمی انگلیسی صحبت می‌کنم. و تو؟         |
-| B        | Ich spreche Persisch, Englisch und ein bisschen Deutsch.| I speak Persian, English and a little German.          | من فارسی، انگلیسی و کمی آلمانی صحبت می‌کنم.         |
+|🇩🇪 A        | Hallo! Wie heißt du?                                   | Hello! What’s your name?                               | سلام! اسم تو چیه؟                                     |
+|🇮🇷 B        | Ich heiße Sara. Und du?                                | My name is Sara. And you?                              | من سارا هستم. و تو؟                                   |
+|🇩🇪 A        | Ich bin Lukas. Wie alt bist du?                        | I’m Lukas. How old are you?                            | من لوکاس هستم. چند سالته؟                            |
+|🇮🇷 B        | Ich bin 25 Jahre alt.                                  | I’m 25 years old.                                      | من ۲۵ سالمه.                                          |
+|🇩🇪 A        | Woher kommst du?                                       | Where are you from?                                    | اهل کجایی؟                                            |
+|🇮🇷 B        | Ich komme aus dem Iran. Und du?                        | I’m from Iran. And you?                                | من اهل ایرانم. و تو؟                                 |
+|🇩🇪 A        | Ich komme aus Deutschland.                             | I’m from Germany.                                      | من اهل آلمانم.                                        |
+|🇮🇷 B        | Welche Sprachen sprichst du?                           | What languages do you speak?                           | چه زبان‌هایی صحبت می‌کنی؟                           |
+|🇩🇪 A        | Ich spreche Deutsch und ein bisschen Englisch. Und du? | I speak German and a little English. And you?          | من آلمانی و کمی انگلیسی صحبت می‌کنم. و تو؟         |
+|🇮🇷 B        | Ich spreche Persisch, Englisch und ein bisschen Deutsch.| I speak Persian, English and a little German.          | من فارسی، انگلیسی و کمی آلمانی صحبت می‌کنم.         |
+
+
+
+
+# 🗣️ A1 Dialog – Vorstellungsgespräch / Introduction Dialogue / گفت‌وگوی معرفی
+
+Ein einfacher Dialog auf Deutsch, Englisch und Persisch für Anfänger (A1-Niveau).  
+A simple multilingual conversation for beginners (A1 level).  
+یک گفت‌وگوی ساده برای زبان‌آموزان سطح A1 به سه زبان آلمانی، انگلیسی و فارسی.
+
+---
+
+## 📋 Dialog – Gespräch zwischen zwei Personen
+
+| 🧩 Schritt | 👤 Person | 🇩🇪 Deutsch                                             | 🇬🇧 English                                             | 🇮🇷 فارسی                                               |
+|-----------|-----------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| 1         | 🇩🇪 A      | Hallo! Wie heißt du?                                   | Hello! What’s your name?                               | سلام! اسم تو چیه؟                                     |
+| 2         | 🇮🇷 B      | Ich heiße Sara. Und du?                                | My name is Sara. And you?                              | من سارا هستم. و تو؟                                   |
+| 3         | 🇩🇪 A      | Ich bin Lukas. Wie alt bist du?                        | I’m Lukas. How old are you?                            | من لوکاس هستم. چند سالته؟                            |
+| 4         | 🇮🇷 B      | Ich bin 25 Jahre alt.                                  | I’m 25 years old.                                      | من ۲۵ سالمه.                                          |
+| 5         | 🇩🇪 A      | Woher kommst du?                                       | Where are you from?                                    | اهل کجایی؟                                            |
+| 6         | 🇮🇷 B      | Ich komme aus dem Iran. Und du?                        | I’m from Iran. And you?                                | من اهل ایرانم. و تو؟                                 |
+| 7         | 🇩🇪 A      | Ich komme aus Deutschland.                             | I’m from Germany.                                      | من اهل آلمانم.                                        |
+| 8         | 🇮🇷 B      | Welche Sprachen sprichst du?                           | What languages do you speak?                           | چه زبان‌هایی صحبت می‌کنی؟                           |
+| 9         | 🇩🇪 A      | Ich spreche Deutsch und ein bisschen Englisch. Und du? | I speak German and a little English. And you?          | من آلمانی و کمی انگلیسی صحبت می‌کنم. و تو؟         |
+| 10        | 🇮🇷 B      | Ich spreche Persisch, Englisch und ein bisschen Deutsch.| I speak Persian, English and a little German.          | من فارسی، انگلیسی و کمی آلمانی صحبت می‌کنم.         |
+
+---
+
+## 🧠 Wichtige Vokabeln / Key Vocabulary / واژگان مهم
+
+| 🇩🇪 Deutsch             | 🇬🇧 English             | 🇮🇷 فارسی             |
+|------------------------|------------------------|------------------------|
+| heißen                 | to be called           | نام داشتن              |
+| alt                   | old (age)              | سن                     |
+| kommen aus             | to come from           | اهل بودن               |
+| sprechen               | to speak               | صحبت کردن              |
+| ein bisschen           | a little               | کمی                    |
+| Sprache                | language               | زبان                   |
+| Wie heißt du?          | What’s your name?      | اسم تو چیه؟            |
+| Wie alt bist du?       | How old are you?       | چند سالته؟             |
+| Woher kommst du?       | Where are you from?    | اهل کجایی؟             |
+
+---
+
+## ✅ Lernziele / Learning Goals / اهداف یادگیری
+
+- Sich vorstellen können (Name, Alter, Herkunft, Sprachen)  
+- To be able to introduce yourself (name, age, origin, languages)  
+- توانایی معرفی خود (نام، سن، ملیت، زبان‌ها)
+
